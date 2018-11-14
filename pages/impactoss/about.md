@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Contact"
+title: "About IMPACT OSS"
 meta_title:
 subheadline:
-teaser: "Get in touch"
-permalink: "/contact/"
+teaser: 
+permalink: "/impactoss/"
 ---
 
 Contact us page

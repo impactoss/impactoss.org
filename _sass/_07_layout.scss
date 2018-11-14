@@ -69,18 +69,16 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: $body-bg;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: $body-bg;
 }
 #masthead-with-text {
     text-align: center;
     font-size: rem-calc(54);
     font-family: $header-font-family;
     color: #fff;
-    text-transform: uppercase;
-    text-shadow: 0 2px 3px rgba(0,0,0,.4);
 }
 #masthead-no-image-header {
     height: 175px;
@@ -284,8 +282,6 @@ body.video cite { color: #fff; }
     #footer h4,
     #footer h5 {
         letter-spacing: 1px;
-        color: #fff;
-        text-transform: uppercase;
     }
 
 
@@ -306,7 +302,6 @@ body.video cite { color: #fff; }
 .credits a {
     color: $subfooter-link-color;
     border: 0;
-    text-transform: uppercase;
     &:hover {
         color: #fff;
   }

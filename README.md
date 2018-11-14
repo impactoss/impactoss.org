@@ -1,3 +1,2 @@
-
-Theme based on 
-http://phlow.github.io/feeling-responsive
+Website based on
+https://github.com/Phlow/feeling-responsive
