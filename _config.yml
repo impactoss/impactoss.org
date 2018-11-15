@@ -38,6 +38,7 @@ improve_content: https://github.com/impactoss/impactoss-org/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image_filename }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
+
 urlimg:  'http://127.0.0.1:4000/impactoss-org/images/'
 
 
