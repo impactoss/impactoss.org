@@ -1,10 +1,10 @@
 ---
-layout: page-fullwidth
 title: "Contact"
 meta_title:
 subheadline:
-teaser: "Get in touch"
+teaser: "We love to hear from you"
 permalink: "/contact/"
 ---
 
-Contact us page
+
+Contact us at [info@impactoss.org](mailto:info@impactoss.org)

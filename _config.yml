@@ -35,10 +35,11 @@ improve_content: https://github.com/impactoss/impactoss-org/edit/gh-pages
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
 #
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Example: <img src="{{ site.urlimg }}{{ post.image_filename }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg:  'https://impactoss.github.io/impactoss-org/images/'
+
+urlimg:  'http://127.0.0.1:4000/impactoss-org/images/'
 
 
 # Logo size is 600x80 pixels
@@ -49,6 +50,128 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+
+
+#      ____
+#     / __ \_________  ________
+#    / /_/ / ___/ __ \/ ___/ _ \
+#   / ____/ /  / /_/ (__  )  __/
+#  /_/   /_/   \____/____/\___/
+#
+
+prose:
+  rooturl: ''
+  siteurl: 'https://impactoss.github.io/impactoss-org/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'images'
+  ignore:
+    - _config.yml
+    - .gitignore
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTORS.md
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - /_data
+    - /_layouts
+    - /_includes
+    - /_drafts
+    - /_sass
+    - /assets
+  metadata:
+    _posts:
+      - name: subheadline
+        field:
+          element: text
+          label: "Subheadline (above title)"
+      - name: teaser
+        field:
+          element: textarea
+          label: "Teaser/lead paragraph (below title)"
+      - name: layout
+        field:
+          element: select
+          label: Layout
+          placeholder: Select page layout
+          value: page-fullwidth
+          options:
+            - name: "Full width page"
+              value: page-fullwidth
+            - name: "Narrow page"
+              value: page
+      - name: header_image
+        field:
+          element: text
+          label: Header fullwidth image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_filename
+        field:
+          element: text
+          label: Page/post image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_thumb
+        field:
+          element: text
+          label: Thumbnail image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_caption
+        field:
+          element: text
+          label: Title image caption
+      - name: image_caption_url
+        field:
+          element: text
+          label: Title image caption URL
+      - name: image_homepage
+        field:
+          element: text
+          label: Homepage image filename (not sure what this does actually)
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+    pages:
+      - name: permalink
+        field:
+          element: text
+          label: Permalink
+          help: "start with section (eg '/impactoss/'), then add hyphenated, lowercase page name ('My awesome page' >> 'my-awesome-page')"
+      - name: subheadline
+        field:
+          element: text
+          label: "Subheadline (above title)"
+      - name: teaser
+        field:
+          element: textarea
+          label: "Teaser/lead paragraph (below title)"
+      - name: layout
+        field:
+          element: select
+          label: Layout
+          placeholder: Select page layout
+          value: page-fullwidth
+          options:
+            - name: "Full width page"
+              value: page-fullwidth
+            - name: "Narrow page"
+              value: page
+      - name: header_image
+        field:
+          element: text
+          label: Header fullwidth image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_filename
+        field:
+          element: text
+          label: Page/post image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_caption
+        field:
+          element: text
+          label: Title image caption
+      - name: image_caption_url
+        field:
+          element: text
+          label: Title image caption URL
+
 
 
 #       ____              _             __  _
@@ -64,7 +187,7 @@ paginate_path: "blog/page:num"   # Pagination path › Important for blog page i
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /blog/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
@@ -114,15 +237,19 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tmfrnz     # Default author for pages
+      layout: page-fullwidth
+      breadcrumb: false
   -
     scope:
       path: ''
       type: 'posts'
     values:
-      show_meta: false   # Show metadata for all posts
+      show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tmfrnz     # Default author for posts
+      layout: page-fullwidth
+      breadcrumb: false
 
 
 

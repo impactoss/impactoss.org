@@ -5,8 +5,14 @@
 # 3. Change default post/page authors in config.yml
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-tmfrnz: # replace this with your info
+tmfrnz:
   name: "Timo Franz"
-  siterole: "webmaster, developer"  
-  email: tmfrnz@gmail.com
+  siterole: "webmaster, developer"
+  email: timo@impactoss.org
+  uri: https://www.linkedin.com/in/tmfrnz
+ashbowe:
+  name: "Ashley Bowe"
+  siterole: "content"
+  email: ash@impactoss.org
+  uri: https://www.linkedin.com/in/ashley-bowe-a4716019
 # you can add more authors here
