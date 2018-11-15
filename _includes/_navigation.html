@@ -38,17 +38,17 @@
           {% comment %}   If there are links for right side begin   {% endcomment %}
           {% if link.side == 'right' %}
             {% comment %}   If right side WITHOUT dropdown menu do   {% endcomment %}
+            {% assign link_url_size = link.url | size %}
+            {% assign page_url_slice = page.url | slice: 0, link_url_size  %}
             {% if link.dropdown == nil %}
               <li class="divider"></li>
-              <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+              <li{% if link.url == page_url_slice %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
 
             {% comment %}   If right side WITH dropdown menu do   {% endcomment %}
             {% else %}
-              {% assign link_url_size = link.url | size %}
-              {% assign page_url_slice = page.url | slice: 0, link_url_size  %}
 
               <li class="divider"></li>
-              <li class="{{page_url_slice}} has-dropdown{% if link.url == page_url_slice %} active{% endif %}">                
+              <li class="{{page_url_slice}} has-dropdown{% if link.url == page_url_slice %} active{% endif %}">
                 <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a>
 
                   <ul class="dropdown test-class">
