@@ -109,12 +109,12 @@ prose:
         field:
           element: text
           label: Title image filename
-          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_thumb
         field:
           element: text
           label: Thumbnail image filename
-          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_caption
         field:
           element: text
@@ -127,7 +127,7 @@ prose:
         field:
           element: text
           label: Homepage image filename (not sure what this does actually)
-          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
     pages:
       - name: permalink
         field:
@@ -157,7 +157,7 @@ prose:
         field:
           element: text
           label: Title image filename
-          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_caption
         field:
           element: text
@@ -165,7 +165,7 @@ prose:
       - name: image_caption_url
         field:
           element: text
-          label: Title image caption URL        
+          label: Title image caption URL
 
 
 
