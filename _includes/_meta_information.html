@@ -1,10 +1,13 @@
-			<div id="page-meta" class="t30">
-				<p>
-					<!-- Look the author details up from the site config. -->
-					{% assign author = site.data.authors[page.author] %}
-					<!-- Output author details if some exist. -->
-					{% if author %}
-					<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20 icon-edit"><a href="{{ author.uri }}" target="_blank"> {{ author.name }}</a></span>
+		<div id="page-meta" class="t30">
+			<p>
+				<!-- Look the author details up from the site config. -->
+				{% assign author = site.data.authors[page.author] %}
+				<!-- Output author details if some exist. -->
+				{% if author %}
+				<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+					<span itemprop="name" class="pr20 icon-edit">
+						<a href="{{ author.uri }}" target="_blank"> {{ author.name }}</a>
+					</span>
 				</span>
 				{% endif %}
 
@@ -29,4 +32,4 @@
 				{% endif %}
 			</div>
 			{% endif %}
-			</div><!--  /.page-meta -->
+		</div><!--  /.page-meta -->

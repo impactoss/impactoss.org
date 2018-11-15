@@ -243,10 +243,11 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      show_meta: false   # Show metadata for all posts
+      show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tmfrnz     # Default author for posts
+      layout: page-fullwidth
       breadcrumb: false
 
 
