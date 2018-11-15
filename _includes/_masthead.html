@@ -1,4 +1,9 @@
-{% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and page.header.background-color == NULL and page.header.title == NULL %}
+{% if page.header == NULL
+	and page.header.image_fullwidth == NULL
+	and page.header.pattern == NULL
+	and page.header.background-color == NULL
+	and page.header.title == NULL
+%}
 
 <div id="masthead-no-image-header">
 	<div class="row">
@@ -49,6 +54,7 @@
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
+	{% if page.header.logo != false %}
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="{{ '/' | absolute_url }}" title="{{ site.title }} – {{ site.slogan }}">
@@ -56,6 +62,7 @@
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
+	{% endif %}
 </div><!-- /#masthead -->
 
 {% if page.breadcrumb == true %}
