@@ -17,14 +17,9 @@
   - title: "Support for IMPACT OSS"
     url: "/impactoss/support/"
 
-- title: News
+- title: Blog
   url: "/blog/"
   side: right
-  dropdown:
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Contact"
   url: "/contact/"
