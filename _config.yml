@@ -85,15 +85,20 @@ prose:
       - name: permalink
         field:
           element: text
+          label: Permalink
+          help: "start with '/blog/', then add hyphenated, lowercase post name ('My awesome post' >> 'my-awesome-post')"
       - name: title
         field:
           element: text
+          label: "Post title"
       - name: subheadline
         field:
           element: text
+          label: "Subheadline (above title)"
       - name: teaser
         field:
           element: textarea
+          label: "Teaser/lead paragraph (below title)"
       - name: layout
         field:
           element: select
@@ -109,18 +114,23 @@ prose:
       - name: permalink
         field:
           element: text
+          label: Permalink
+          help: "start with section (eg '/impactoss/'), then add hyphenated, lowercase page name ('My awesome page' >> 'my-awesome-page')"
       - name: title
         field:
           element: text
+          label: "Page title"
       - name: subheadline
         field:
           element: text
+          label: "Subheadline (above title)"
       - name: teaser
         field:
           element: textarea
+          label: "Teaser/lead paragraph (below title)"
       - name: layout
         field:
-          element: multiselect
+          element: select
           label: Layout
           placeholder: Select page layout
           value: page-fullwidth
