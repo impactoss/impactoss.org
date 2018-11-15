@@ -64,13 +64,20 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'images'
   ignore:
-    - index.md
     - _config.yml
+    - .gitignore
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTORS.md
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
     - /_layouts
     - /_includes
     - /_drafts
     - /_sass
     - /assets
+    - /images
     - /blog
 
 
