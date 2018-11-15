@@ -96,7 +96,7 @@ prose:
           element: textarea
       - name: layout
         field:
-          element: multiselect
+          element: select
           label: Layout
           placeholder: Select page layout
           value: page-fullwidth
