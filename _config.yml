@@ -99,10 +99,15 @@ prose:
               value: page-fullwidth
             - name: "Narrow page"
               value: page
+      - name: header_image
+        field:
+          element: text
+          label: Header fullwidth image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_filename
         field:
           element: text
-          label: Title image filename
+          label: Page/post image filename
           help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_thumb
         field:
@@ -147,10 +152,15 @@ prose:
               value: page-fullwidth
             - name: "Narrow page"
               value: page
+      - name: header_image
+        field:
+          element: text
+          label: Header fullwidth image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_filename
         field:
           element: text
-          label: Title image filename
+          label: Page/post image filename
           help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_caption
         field:

@@ -18,7 +18,7 @@ A world in which technology plays a critical role in the effective implementatio
 
 Moana Eruera - Chairperson
 
-![](/impactoss-org/images/widget-1-302x182.jpg)
+![]({{site.baseurl}}/images/widget-1-302x182.jpg)
 
 Edith Woischin - Treasurer
 
