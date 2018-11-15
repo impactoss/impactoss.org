@@ -122,12 +122,7 @@ prose:
       - name: image_caption_url
         field:
           element: text
-          label: Title image caption URL
-      - name: image_homepage
-        field:
-          element: text
-          label: Homepage image filename (not sure what this does actually)
-          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+          label: Title image caption URL      
     pages:
       - name: permalink
         field:
