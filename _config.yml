@@ -87,10 +87,6 @@ prose:
           element: text
           label: Permalink
           help: "start with '/blog/', then add hyphenated, lowercase post name ('My awesome post' >> 'my-awesome-post')"
-      - name: title
-        field:
-          element: text
-          label: "Post title"
       - name: subheadline
         field:
           element: text
@@ -116,10 +112,6 @@ prose:
           element: text
           label: Permalink
           help: "start with section (eg '/impactoss/'), then add hyphenated, lowercase page name ('My awesome page' >> 'my-awesome-page')"
-      - name: title
-        field:
-          element: text
-          label: "Page title"
       - name: subheadline
         field:
           element: text
