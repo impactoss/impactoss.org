@@ -51,6 +51,29 @@ gems:
     - jekyll-paginate
 
 
+#      ____
+#     / __ \_________  ________
+#    / /_/ / ___/ __ \/ ___/ _ \
+#   / ____/ /  / /_/ (__  )  __/
+#  /_/   /_/   \____/____/\___/
+#
+
+prose:
+  rooturl: ''
+  siteurl: 'https://impactoss.github.io/impactoss-org/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_drafts
+    - /_sass
+    - /assets
+    - /blog
+
+
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
 #     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
@@ -115,6 +138,7 @@ defaults:
       comments: false
       author: tmfrnz     # Default author for pages
       layout: page-fullwidth
+      breadcrumb: false
   -
     scope:
       path: ''
@@ -124,6 +148,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tmfrnz     # Default author for posts
+      breadcrumb: false
 
 
 
