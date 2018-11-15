@@ -72,6 +72,7 @@ prose:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - /_data
     - /_layouts
     - /_includes
     - /_drafts
