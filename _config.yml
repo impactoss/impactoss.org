@@ -80,6 +80,57 @@ prose:
     - /assets
     - /images
     - /blog
+  metadata:
+    _posts:
+      - name: permalink
+        field:
+          element: text
+      - name: title
+        field:
+          element: text
+      - name: subheadline
+        field:
+          element: text
+      - name: teaser
+        field:
+          element: textarea
+      - name: layout
+        field:
+          element: multiselect
+          label: Layout
+          placeholder: Select page layout
+          value: page-fullwidth
+          options:
+            - name: "Full width page"
+              value: page-fullwidth
+            - name: "Narrow page"
+              value: page
+    pages:
+      - name: permalink
+        field:
+          element: text
+      - name: title
+        field:
+          element: text
+      - name: subheadline
+        field:
+          element: text
+      - name: teaser
+        field:
+          element: textarea
+      - name: layout
+        field:
+          element: multiselect
+          label: Layout
+          placeholder: Select page layout
+          value: page-fullwidth
+          options:
+            - name: "Full width page"
+              value: page-fullwidth
+            - name: "Narrow page"
+              value: page
+
+
 
 
 #       ____              _             __  _
