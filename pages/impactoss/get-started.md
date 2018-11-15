@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Get started with IMPACT OSS"
 meta_title:
 subheadline:

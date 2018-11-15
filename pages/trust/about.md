@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "About"
 meta_title:
 subheadline:

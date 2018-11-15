@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Support for IMPACT OSS"
 meta_title:
 subheadline:

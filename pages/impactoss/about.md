@@ -1,9 +1,8 @@
 ---
-layout: page
 title: "About IMPACT OSS"
 meta_title:
 subheadline:
-teaser: 
+teaser:
 permalink: "/impactoss/"
 ---
 

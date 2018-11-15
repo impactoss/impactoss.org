@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Get involved"
 meta_title:
 subheadline:

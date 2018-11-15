@@ -38,7 +38,7 @@ improve_content: https://github.com/impactoss/impactoss-org/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg:  'http://127.0.0.1:4000/images/'
+urlimg:  'http://127.0.0.1:4000/impactoss-org/images/'
 
 
 # Logo size is 600x80 pixels
@@ -114,6 +114,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: tmfrnz     # Default author for pages
+      layout: page-fullwidth
   -
     scope:
       path: ''
