@@ -2,13 +2,13 @@
 layout: default
 format: page-fullwidth
 ---
-{% if page.image.title %}
+{% if page.image_filename %}
 <div class="row t30">
 	<div class="small-12 columns">
-		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
-		{% if page.image.caption_url and page.image.caption %}
+		<img src="{{ site.urlimg }}{{ page.image_filename }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image_caption_url and page.image_caption %}
 		<p class="text-right caption">
-			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+			<a href="{{ page.image_caption_url }}">{{ page.image_caption }}</a>
 		</p>
 		{% endif %}
 	</div><!-- /.small-12.columns -->
@@ -34,5 +34,3 @@ format: page-fullwidth
 		</article>
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
-
-

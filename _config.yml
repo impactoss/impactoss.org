@@ -35,7 +35,7 @@ improve_content: https://github.com/impactoss/impactoss-org/edit/gh-pages
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
 #
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Example: <img src="{{ site.urlimg }}{{ post.image_filename }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg:  'http://127.0.0.1:4000/impactoss-org/images/'
@@ -78,7 +78,6 @@ prose:
     - /_drafts
     - /_sass
     - /assets
-    - /images
     - /blog
   metadata:
     _posts:
@@ -106,6 +105,29 @@ prose:
               value: page-fullwidth
             - name: "Narrow page"
               value: page
+      - name: image_filename
+        field:
+          element: text
+          label: Title image filename
+          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_thumb
+        field:
+          element: text
+          label: Thumbnail image filename
+          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_caption
+        field:
+          element: text
+          label: Title image caption
+      - name: image_caption_url
+        field:
+          element: text
+          label: Title image caption URL
+      - name: image_homepage
+        field:
+          element: text
+          label: Homepage image filename (not sure what this does actually)
+          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
     pages:
       - name: permalink
         field:
@@ -131,7 +153,19 @@ prose:
               value: page-fullwidth
             - name: "Narrow page"
               value: page
-
+      - name: image_filename
+        field:
+          element: text
+          label: Title image filename
+          hint: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
+      - name: image_caption
+        field:
+          element: text
+          label: Title image caption
+      - name: image_caption_url
+        field:
+          element: text
+          label: Title image caption URL        
 
 
 
