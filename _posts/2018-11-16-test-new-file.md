@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-published: false
+published: true
 ---
 ## A New Post
 
