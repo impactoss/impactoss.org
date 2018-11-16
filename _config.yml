@@ -81,6 +81,11 @@ prose:
     - /assets
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
       - name: subheadline
         field:
           element: text
@@ -129,6 +134,11 @@ prose:
           label: Homepage image filename (not sure what this does actually)
           help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
     pages:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""      
       - name: permalink
         field:
           element: text
