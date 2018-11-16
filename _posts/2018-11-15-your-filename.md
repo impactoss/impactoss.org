@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
-published: false
+published: true
 subheadline: ''
-teaser: ''
+teaser: 'Blog post teaser text'
 header_image: ''
-image_filename: ''
-image_thumb: ''
+image_filename: 'video_teaser.png'
+image_thumb: 'video_teaser.png'
 image_caption: ''
 image_caption_url: ''
 ---
