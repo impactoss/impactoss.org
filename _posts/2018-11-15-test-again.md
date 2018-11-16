@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 published: true
+title: Test again
 ---
 ## A New Post
 
