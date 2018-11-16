@@ -1,0 +1,68 @@
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/cookieconsent.js"></script>
+<script>
+
+function enableEmbeds() {
+  console.log('enableEmbeds')
+  $('.embed-video').each(function() {
+    var videoId = $(this).data('video');
+    var videoSource = $(this).data('video-source');
+    if (videoSource === 'vimeo') {
+      $(this).html('<p class="embed-video-enabled"> \
+        <iframe src="https://player.vimeo.com/video/'+videoId+'?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> \
+      </p>');
+    }
+  })
+}
+
+
+function disableEmbeds() {
+  console.log('disableEmbeds')
+  $('.embed-video').each(function() {
+    var videoId = $(this).data('video');
+    var videoSource = $(this).data('video-source');
+    if (videoSource === 'vimeo') {
+      var url = '//vimeo.com/'+videoId;
+      var anchor = 'vimeo.com/'+videoId;
+      $(this).html('<p class="embed-video-disabled" style="position:absolute;top:0;">We are sorry, without your consent we can not embed the video but you can watch on Vimeo: <a target="_blank" href="'+url+'">'+anchor+'</a></p>');
+    }
+  })
+}
+
+window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#000"
+      },
+      "button": {
+        "background": "#f1d600"
+      }
+    },
+    "position": "bottom-left",
+    "type": "opt-in",
+    "content": {
+      "message": "This website uses a cookie to store your cookie preference.  Allowing third party cookies will allow this website to show embedded videos. ",
+      "allow": "Allow third party cookies",
+      "link": "Privacy policy",
+      "href": "impactoss.org/privacy-policy/"
+    },
+    onInitialise: function () {
+      if (this.hasConsented()) {
+        // enable cookies
+        enableEmbeds();
+      } else {
+        disableEmbeds()
+      }
+    },
+
+    onStatusChange: function(status, chosenBefore) {
+      if (this.hasConsented()) {
+        enableEmbeds();
+      } else {
+        disableEmbeds()
+      }
+    },
+  })
+});
+</script>
