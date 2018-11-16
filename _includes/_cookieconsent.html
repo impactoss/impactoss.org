@@ -42,10 +42,14 @@ window.addEventListener("load", function(){
     "position": "bottom-left",
     "type": "opt-in",
     "content": {
+      "header": "Your cookie preference and privacy",
       "message": "This website uses a cookie to store your cookie preference.  Allowing third party cookies will allow this website to show embedded videos. ",
       "allow": "Allow third party cookies",
+      "deny": "Decline",
       "link": "Privacy policy",
-      "href": "impactoss.org/privacy-policy/"
+      "href": "impactoss.org/privacy-policy/",
+      "policy": "Cookie preference & privacy",
+      "target": "",
     },
     onInitialise: function () {
       if (this.hasConsented()) {
