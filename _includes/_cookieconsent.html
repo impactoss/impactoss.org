@@ -3,7 +3,6 @@
 <script>
 
 function enableEmbeds() {
-  console.log('enableEmbeds')
   $('.embed-video').each(function() {
     var videoId = $(this).data('video');
     var videoSource = $(this).data('video-source');
@@ -17,7 +16,6 @@ function enableEmbeds() {
 
 
 function disableEmbeds() {
-  console.log('disableEmbeds')
   $('.embed-video').each(function() {
     var videoId = $(this).data('video');
     var videoSource = $(this).data('video-source');
@@ -47,7 +45,7 @@ window.addEventListener("load", function(){
       "allow": "Allow third party cookies",
       "deny": "Decline",
       "link": "Privacy policy",
-      "href": "impactoss.org/privacy-policy/",
+      "href": "privacy-policy/",
       "policy": "Cookie preference & privacy",
       "target": "",
     },
