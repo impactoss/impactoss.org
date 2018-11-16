@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 published: true
+title: Your filename
 ---
 ## A New Post
 
