@@ -76,7 +76,9 @@ body.video cite { color: #fff; }
 }
 #masthead-with-text {
     text-align: center;
-    font-size: rem-calc(54);
+    font-size: 4em;
+    text-align: left;
+    font-weight: bold;
     font-family: $header-font-family;
     color: $text-color;
 }

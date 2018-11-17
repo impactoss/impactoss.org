@@ -1,5 +1,5 @@
 ---
-title: "About IMPACT OSS"
+title: "IMPACT OSS is a software created to assist States with coordinating and monitoring implementation of human rights and the SDGs, and also communicate implementation progress to the public."
 meta_title:
 subheadline:
 teaser:
@@ -8,18 +8,18 @@ video: 262605219
 video_source: vimeo
 ---
 
-IMPACT OSS is a software created to assist States with coordinating and monitoring implementation of human rights and the SDGs, and also communicate implementation progress to the public.
-
 ---
 
-## Source code
+# Source code
+
+Some text about impact oss being open source, maybe use images  to link to client and server. Might link to get involved...
 
 * [impactoss-client](https://github.com/impactoss/impactoss-client)
 * [impactoss-server](https://github.com/impactoss/impactoss-server)
 
 ---
 
-## Features
+# Features
 
 #### Powerful batch editing
 
@@ -39,7 +39,7 @@ Application can be translated to your language
 
 ---
 
-## Roadmap
+# Roadmap
 
 #### Funding secured
 * Accessibility compliance with WCAG 2.0 (in progress)
@@ -54,13 +54,14 @@ Application can be translated to your language
 
 ---
 
-## Usage options
+# Usage options
 
 [Get started with IMPACT OSS]({{site.baseurl}}/impactoss/get-started)
 
 ---
 
-## Credits
+####  Credits
+##### Partners and collaborators
 
 IMPACT OSS was designed and developed by human rights consultant Ashley Bowe and data visualisation agency Unfold Data, led by Edith Woischin and Timo Franz, with the help of human rights specialist Moana Eruera.
 
