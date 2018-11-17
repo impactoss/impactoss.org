@@ -17,6 +17,8 @@ Owner contact email: [privacy@impactoss.org](mailto:privacy@impactoss.org)
 
 ## Summary
 
+---
+
 Without your explicit consent, this Website does not collect or store your Personal Data, **except for the essential hosting and infrastructure services** it requires to function.
 
 In addition, and only **with your explicit consent, Personal Data is collected by third-party services**. You can disable these third-party services by declining your consent at any time. To remember your third-party cookie preference, this Website uses a cookie.
