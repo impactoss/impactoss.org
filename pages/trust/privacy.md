@@ -266,4 +266,5 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 ---
 
 Latest update: November 17, 2018
+
 Based on a Privacy Policy generated with [iubenda](https://www.iubenda.com/)
