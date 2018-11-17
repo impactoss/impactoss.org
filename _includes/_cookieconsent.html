@@ -7,13 +7,15 @@ function enableEmbeds() {
     var videoId = $(this).data('video');
     var videoSource = $(this).data('video-source');
     if (videoSource === 'vimeo') {
-      $(this).html('<p class="embed-video-enabled"> \
-        <iframe src="https://player.vimeo.com/video/'+videoId+'?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> \
-      </p>');
+      $(this).html(
+        '<p class="embed-video-enabled">'
+        + '<iframe src="https://player.vimeo.com/video/' + videoId + '?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>'
+        + '</iframe>'
+        + '</p>'
+      );
     }
   })
 }
-
 
 function disableEmbeds() {
   $('.embed-video').each(function() {
@@ -22,7 +24,12 @@ function disableEmbeds() {
     if (videoSource === 'vimeo') {
       var url = '//vimeo.com/'+videoId;
       var anchor = 'vimeo.com/'+videoId;
-      $(this).html('<p class="embed-video-disabled" style="position:absolute;top:0;">We are sorry, without your consent we can not embed the video but you can watch on Vimeo: <a target="_blank" href="'+url+'">'+anchor+'</a></p>');
+      $(this).html(
+        '<p class="embed-video-disabled" style="position:absolute;top:0;">'
+        + 'We are sorry, without your consent to third-party cookies, we can not show the video. You can allow third-party cookies by updating your cookie preference or watch the video on Vimeo:'
+        + '<a target="_blank" href="'+url+'">' + anchor + '</a>'
+        + '</p>'
+      );
     }
   })
 }
@@ -40,12 +47,12 @@ window.addEventListener("load", function(){
     "position": "bottom-left",
     "type": "opt-in",
     "content": {
-      "header": "Your cookie preference and privacy",
-      "message": "This website uses a cookie to store your cookie preference.  Allowing third party cookies will allow this website to show embedded videos. ",
-      "allow": "Allow third party cookies",
+      "header": "Cookie preference & privacy",
+      "message": "This Website uses a cookie to store your third-party cookie preference. Allowing third-party cookies will enable third-party services, in particular showing videos.",
+      "allow": "Allow third-party cookies",
       "deny": "Decline",
-      "link": "Privacy policy",
-      "href": "privacy-policy/",
+      "link": "Our privacy policy",
+      "href": "{{site.baseurl}}/privacy-policy/",
       "policy": "Cookie preference & privacy",
       "target": "",
     },
