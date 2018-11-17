@@ -26,7 +26,7 @@ function disableEmbeds() {
       var anchor = 'vimeo.com/'+videoId;
       $(this).html(
         '<p class="embed-video-disabled" style="position:absolute;top:0;">'
-        + 'We are sorry, without your consent to third-party cookies, we can not show the video. You can allow third-party cookies by updating your cookie preference or watch the video on Vimeo:'
+        + 'Please allow third-party services to show the embedded video or watch the video on Vimeo:'
         + '<a target="_blank" href="'+url+'">' + anchor + '</a>'
         + '</p>'
       );
@@ -46,10 +46,12 @@ window.addEventListener("load", function(){
     },
     "position": "bottom-left",
     "type": "opt-in",
+    "layout": "basic-header",
     "content": {
       "header": "Cookie preference & privacy",
-      "message": "This Website uses a cookie to store your third-party cookie preference. Allowing third-party cookies will enable third-party services, in particular showing videos.",
-      "allow": "Allow third-party cookies",
+      "message": "By using this Website you agree to store your Personal Data where it is essential for the Website to function. \
+        In addition, you can enable non-essential third-party services that may store Cookies and Usage Data.",
+      "allow": "Allow third-party services",
       "deny": "Decline",
       "link": "Our privacy policy",
       "href": "{{site.baseurl}}/privacy-policy/",
