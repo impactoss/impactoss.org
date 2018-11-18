@@ -12,13 +12,13 @@ video_source: vimeo
 
 # About IMPACT OSS
 
-**IMPACT OSS** is an _Open Source Software_ (OSS) for _Integrated Management and Planning of ACTions_ (IMPACT) that is maintained by the **Impact Open Source Software Trust**.
+**IMPACT OSS** is an _Open Source Software_ (OSS) for _Integrated Management and Planning of ACTions_ (IMPACT) that is maintained by the **Impact Open Source Software Trust** (see [About]({{site.baseurl}}/trust) to learn more about us).
 
-IMPACT OSS is the result of combining the development efforts for [Sadata](https://sadata-production.firebaseapp.com), Samoa's Database for its NMRF (National Mechanism for Reporting and Follow-up), and the [New Zealand National Plan of Action](https://npa.hrc.co.nz) managed by the [New Zealand Human Rights Commission](https://hrc.co.nz). Further enhancements and documentation was made possible thanks to our partner [Universal Rights Group](https://www.universal-rights.org/) and the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
+IMPACT OSS evolved from combining the development efforts for [Sadata](https://sadata-production.firebaseapp.com), Samoa's Database for its _National Mechanism for Reporting and Follow-up_ (NMRF), and the [New Zealand National Plan of Action](https://npa.hrc.co.nz) that is managed by the [New Zealand Human Rights Commission](https://hrc.co.nz) (see below for further credits).
 
-IMPACT OSS consists of a [server application](https://github.com/impactoss/impactoss-server) (the 'API') that manages the database, user authentication and automated emails, and a [client application](https://github.com/impactoss/impactoss-client) (the 'UI') that serves as the user interface for both the public and admin users.
+IMPACT OSS consists of a **server application** (the 'API', [server source code (Rails)](https://github.com/impactoss/impactoss-server)) that manages the database, user authentication and automated emails, and a **client application** (the 'UI', [client source code (React/JavaScript)](https://github.com/impactoss/impactoss-client)) that serves as the user interface for both the public and admin users.
 
-All project code and related documentation are released under an [MIT Open Source License](https://github.com/impactoss/impactoss-client/blob/master/LICENSE.md) that allows any person or organisation to **use, modify and distribute the software free of charge** as long as the original copyright and license notice is included.
+All project code and related documentation are released under the [MIT Open Source License](https://github.com/impactoss/impactoss-client/blob/master/LICENSE.md) that allows any person or organisation to **use, modify and distribute the software free of charge** as long as the original copyright and license notice is included.
 
 ---
 
@@ -30,7 +30,7 @@ All project code and related documentation are released under an [MIT Open Sourc
       Independent installation
     </h4>
     <p>
-
+      IMPACT OSS can be installed independently by any person or organisation using suitable hosting providers. See <a title="Get started with IMPACT OSS" href="{{site.baseurl}}/impactoss/get-started/">Get started with IMPACT OSS</a> for further information and installation instructions.
     </p>
   </div>
   <div class="large-6 columns">
@@ -38,11 +38,12 @@ All project code and related documentation are released under an [MIT Open Sourc
       Managed installation
     </h4>
     <p>
+      Alternatively, you can hire us to install and host IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
     </p>
   </div>
 </div>
 
-[Get started with IMPACT OSS]({{site.baseurl}}/impactoss/get-started)
+**[Get started with IMPACT OSS]({{site.baseurl}}/impactoss/get-started/)**
 
 ---
 
@@ -103,22 +104,53 @@ All project code and related documentation are released under an [MIT Open Sourc
 
 ---
 
+# Demo
+
+#### Standard configuration
+
+Check out our demo installation at **[demo.impactoss.org](https://demo.impactoss.org)**. You can sign in and explore the admin features by using email `demo.manager@impactoss.org` and password `manager`.
+
+#### Other configurations for Small States
+
+Further demo installations, in particular aimed at Small States, are available at:
+
+* **[demo-rights.impactoss.org](https://demo-rights.impactoss.org)**: Human Rights implementation only, no SDGs
+* **[demo-sdgs.impactoss.org](https://demo-sdgs.impactoss.org)**: Human Rights and SDG implementation
+
+The configuration and installation of these demo sites were funded by [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
+
+#### Personal demo
+
+We will happily give you an introduction and **schedule a personal demo** with you. Just get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).
+
+---
+
 # Roadmap
 
 We are committed to continue improving IMPACT OSS. In particular, we are currently planning the following improvements
 
-#### Integration of third party developments
+#### Integration of third party-developments
+
+Ongoing developments by third parties that we are looking to integrate with IMPACT OSS.
 
 * **Accessibility**: as part of the enhancements for its National Plan of Action, the NZ Human Rights Commission has provided funding to make IMPACT OSS accessible and compliant with WCAG 2.0. Development is still ongoing and expected to be made available to all installations of IMPACT OSS in December 2018.
 
-#### Other planned enhancement (subject to funding or third party developments)
+#### Other planned enhancements
 
-* **PDF exporting**
-* **Improved indicators** (distinguish progress and outcome indicators)
-* **Data visualisation component**
+Enhancements we are planning but that subject to funding or third-party developments.
+
+* **PDF exporting**: generate PDF reports
+* **Integrate with other databases**: allow importing recommendations and observations from other databases such as OHCHR
+* **Importing with tags**: allow importing recommendations and actions with category tags/clusters
 * **Prominent recommendation clusters**: strengthen role of recommendation clusters
-* **Automated clustering** using machine learning
-* **Multilanguage support**
+* **Automated clustering**: cluster recommendations automatically using methods such as machine learning
+* **Improved indicators**: allow distinguishing progress from outcome indicators
+* **Data visualisation component**: store and visualise indicator data
+* **Improved filtering**: improve recommendation and action filtering, e.g. filtering by date ranges
+* **Multi-language support**: introduce support for multiple languages
+* **User invitation**: allow inviting new users from within the application
+
+If you would like to **discuss or contribute** to any of the above features or **have ideas for any other features**, please get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).
 
 ---
 
@@ -126,16 +158,12 @@ We are committed to continue improving IMPACT OSS. In particular, we are current
 
 #### Design and Development
 
-IMPACT OSS was designed and developed by human rights consultant Ashley Bowe and data visualisation agency Unfold Data, led by Edith Woischin and Timo Franz, with the help of human rights specialist Moana Eruera.
+IMPACT OSS was designed and developed by human rights consultant Ashley Bowe and data visualisation agency [Unfold Data](http://unfolddata.com), led by Edith Woischin and Timo Franz, with the help of human rights specialist Moana Eruera.
 
-For full list of contributors, please see
-* [impactoss-client](https://github.com/impactoss/impactoss-client/blob/master/CONTRIBUTORS.md)
-* [impactoss-server](https://github.com/impactoss/impactoss-server/blob/master/CONTRIBUTORS.md)
+For full list of source code contributors, please see [contributors (client)](https://github.com/impactoss/impactoss-client/blob/master/CONTRIBUTORS.md) and [contributors (server)](https://github.com/impactoss/impactoss-server/blob/master/CONTRIBUTORS.md).
 
 #### Funding
 
-Sadata was made possible with funding provided by The United Nations Development Program in Samoa and New Zealand Aid.
-
-NZ NPA was funded by NZ Human Rights Commission.
-
-Further expertise and funding was provided by URG & Singapore.
+* Samoa's database [Sadata](https://sadata-production.firebaseapp.com) was made possible with funding provided by the [United Nations Development Program in Samoa](http://www.ws.undp.org/) and [New Zealand Aid](https://www.mfat.govt.nz/en/aid-and-development).
+* [New Zealand's National Plan of Action](https://npa.hrc.co.nz) was funded by the [New Zealand Human Rights Commission](https://hrc.co.nz).
+* IMPACT OSS documentation, customisation for Small States, and our video were funded by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html) and our partner [Universal Rights Group](https://www.universal-rights.org/).
