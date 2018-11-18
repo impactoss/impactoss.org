@@ -56,6 +56,21 @@ body.video cite { color: #fff; }
 }
 
 
+.top-bar-section ul.dropdown li.title.back h5 a {
+  display: block;
+  position: relative;
+  &:after {
+    @if ($topbar-arrows){
+      @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), $opposite-direction);
+    }
+    margin-#{$default-float}: $topbar-link-padding;
+    margin-top: -($topbar-dropdown-toggle-size / 2) - 2;
+    position: absolute;
+    top: 50%;
+    #{$default-float}: 0;
+  }
+}
+
 
 /* Search
 ------------------------------------------------------------------- */
