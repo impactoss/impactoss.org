@@ -292,6 +292,27 @@ body.video cite { color: #fff; }
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
+
+    .social-icons {
+        margin-bottom: 10px !important;
+
+    // Beware of SCSS-Syntax here
+      li {
+        padding: 0 0 10px 0;
+      }
+      a {
+        font-size: rem-calc(23);
+        display: block;
+        width: 36px;
+        border-radius: 50%;
+        color: $footer-color;
+        background: $footer-bg;
+        text-align: center;
+        &:hover {
+          background: #fff;
+        }
+      }
+    }
     }
 
     #footer a {
@@ -301,6 +322,7 @@ body.video cite { color: #fff; }
     #footer h5 {
         letter-spacing: 1px;
     }
+
 
 
 
@@ -324,30 +346,6 @@ body.video cite { color: #fff; }
         color: #fff;
   }
 }
-
-.social-icons {
-    margin-bottom: 10px !important;
-
-// Beware of SCSS-Syntax here
-  li {
-    padding: 0 0 20px 0;
-  }
-  a {
-    font-size: rem-calc(23);
-    display: block;
-    width: 36px;
-    border-radius: 50%;
-    color: $subfooter-bg;
-    background: $subfooter-color;
-    text-align: center;
-    &:hover {
-      background: $subfooter-bg;
-      color: #fff;
-    }
-  }
-}
-
-
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */

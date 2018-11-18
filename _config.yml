@@ -14,7 +14,7 @@ title: 'Impact Open Source Software Trust'
 slogan: 'TODO: our slogan'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'TODO: description'
+description: 'We are incorporated as a charitable trust under NZ’s Charitable Trusts Act of 1957 with the objective to advance the enjoyment of human rights and the realisation of the UN SDGs.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: 'Created by Impact Open Source Software Trust. Based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'

@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/impactoss
+  url: https://github.com/impactoss
   class: icon-github
   title: Impact OSS Trust on GitHub
 
@@ -8,10 +8,10 @@
   class: icon-twitter
   title: "Follow us on Twitter"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/impactopensource
+  class: icon-facebook
+  title: "Impact OSS Trust on Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
