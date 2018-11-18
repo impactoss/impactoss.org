@@ -27,10 +27,7 @@ Check typography variables › _3_typography_settings.scss
 a,
 a:link {
     transition: all .4s;
-}
-
-a:visited {
-    border-bottom: $grey-2;
+    transition: border 0s;
 }
 
 a:hover {
@@ -61,7 +58,6 @@ p {
 }
 p a,
 article a {
-    font-weight: bold;
     border-bottom: 1px solid;
 }
 p a:hover,
