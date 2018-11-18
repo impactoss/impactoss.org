@@ -105,7 +105,7 @@ All project code and related documentation are released under the [MIT Open Sour
 ---
 
 #### Demo sites
-# Try all the Imapct OSS functionality
+# Try all the IMPACT OSS functionality
 
 ## Standard configuration
 
@@ -126,7 +126,8 @@ We will happily give you an introduction and **schedule a personal demo** with y
 
 ---
 
-# Roadmap
+#### Roadmap
+# Where we are heading
 
 We are committed to continue improving IMPACT OSS. In particular, we are currently planning the following improvements
 
