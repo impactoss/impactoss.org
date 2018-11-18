@@ -30,7 +30,6 @@ a:link {
 }
 
 a:visited {
-    border-bottom: $grey-2;
 }
 
 a:hover {
@@ -61,12 +60,11 @@ p {
 }
 p a,
 article a {
-    font-weight: bold;
     border-bottom: 1px solid;
 }
 p a:hover,
 article a:hover {
-    border-bottom: 2px solid;
+    border-bottom: 1px solid;
 }
 p a.button,
 .button,
@@ -108,7 +106,7 @@ h3 {
 h4 {
     font-size: $font-size-h4;
     font-weight: bold;
-    margin: 1.152em 0 0 0;
+    margin: 1em 0 0 0;
 }
 h5 {
     font-size: $font-size-h5;
@@ -126,13 +124,12 @@ h6 {
 /* Images
 ------------------------------------------------------------------- */
 
-img { border-radius: $global-radius;}
-    img.alignleft,
-    img.left        { float: left; margin:5px 15px 5px 0; }
-    img.alignright,
-    img.right       { float: right; margin:5px 0 5px 15px; }
-    img.aligncenter,
-    img.center      { display: block; margin:0 auto 10px; }
+img.alignleft,
+img.left        { float: left; margin:5px 15px 5px 0; }
+img.alignright,
+img.right       { float: right; margin:5px 0 5px 15px; }
+img.aligncenter,
+img.center      { display: block; margin:0 auto 10px; }
 
 figure {
     margin: 0 0 rem-calc(30) 0;
@@ -204,7 +201,11 @@ ul, ol {
     padding: 0;
 }
 li {
-    margin-left: 0;
+    margin: 0 0 0 0;
+}
+
+article li {
+    margin: 0 0 0 30px;
 }
 
 .no-bullet {
@@ -309,6 +310,10 @@ mark {
 }
 .big-teaser a {
     font-style: italic; font-weight: 400;
+}
+
+.frontpage .teaser {
+  font-size: $font-size-h1;
 }
 
 /* Smaller Fontsize for Bigteaser on small devices */

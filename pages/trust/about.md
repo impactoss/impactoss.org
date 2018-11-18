@@ -16,9 +16,9 @@ A world in which technology plays a critical role in the effective implementatio
 
 ---
 
-# Who we are
+#### Who we are
 
-##### Our Board of Trustees
+# Our Board of Trustees
 
 <div class="row">
   <div class="large-3 columns">
@@ -101,20 +101,13 @@ A world in which technology plays a critical role in the effective implementatio
 
 ---
 
-![]({{site.urlimg}}graphic.jpg)
+![]({{site.urlimg}}core.png)
 
-# Core Values
+#### Core Values
 
-* Transparency
-* Accountability
-* Open collaboration
-* Equality
-* Non-discrimination
-* Respect
-* Dignity
-* Consensual decision making
+# Transparency | Accountability | Open collaboration | Equality | Non-discrimination | Respect | Dignity | Consensual decision making
 
-## Transparency, accountability open collaboration
+## Transparency, accountability and open collaboration
 
 The Trustees are united in their commitment to the core values of the Trust and seek to advance these principles in the course of the organisation’s work and governance. Transparency and accountability are core characteristics of any software developed or supported by the Trust, as is being open source in nature.
 

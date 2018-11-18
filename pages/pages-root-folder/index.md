@@ -5,9 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header.png
-  logo: false
+header_image: header.png
+teaser: Impact OSS – developing and supporting tools to coordinate and monitor the implementation of human rights and the SDGs. Transparent progress and efforts.
 widget1:
   title: "Who we are"
   url: '/trust/'
