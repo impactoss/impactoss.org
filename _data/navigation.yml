@@ -1,11 +1,5 @@
-- title: Home
-  url: "/"
-  side: left
-  image: logo.png
-
 - title: "About"
   url: "/trust/"
-  side: right
 
 - title: "IMPACT OSS"
   url: "/impactoss/"
@@ -20,12 +14,9 @@
 
 - title: Blog
   url: "/blog/"
-  side: right
 
 - title: "Contact"
   url: "/contact/"
-  side: right
 
 - title: "Get involved"
   url: "/get-involved/"
-  side: right
