@@ -24,6 +24,13 @@ For the ongoing operation of IMPACT OSS, the following tasks are required
 In addition, it is best to sporadically
 * Update application code when new core versions become available
 
+
+
+
+
+ Both components are loosely coupled and can also be used independently.
+(branches `demo-rights` ([client](https://github.com/impactoss/impactoss-client/tree/demo-rights), [server](https://github.com/impactoss/impactoss-server/tree/demo-rights)))
+
 ---
 
 ## Free and open source
