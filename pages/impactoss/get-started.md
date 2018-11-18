@@ -26,7 +26,9 @@ In addition, it is best to sporadically
 
 ---
 
-## Free and open source
+![]({{site.urlimg}}open.png)
+
+# Free and open source
 
 The source code for both server and client is open source and freely available under the MIT license. Anyone is therefore permitted to make a copy of the source code, change it, and install it on suitable web servers without any financial obligation to the IMPACT OSS Group as long as any modifications are also open source.
 
