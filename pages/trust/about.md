@@ -125,8 +125,23 @@ The Trust Deed which establishes the Impact Open Source Software Trust sets out 
 
 ---
 
-#### Partners
+# Partners
 
-##### Universal Rights Group
-
-The Trust and URG signed an MOU in October 2017 in recognition of their shared aim to advance the implementation agenda through the use of technology. Through the partnership URG leverages its networks and influence within Geneva and the human rights sector to test, develop, and generate interest and funds for the improvement and application of IMPACT OSS.
+<div class="row">
+  <div class="large-6 columns">
+    <h4>
+      Universal Rights Group
+    </h4>
+    <p>
+      <img src="{{site.urlimg}}universal-rights-group.png">
+    </p>
+    <p>
+      The Trust and URG signed an MOU in October 2017 in recognition of their shared aim to advance the implementation agenda through the use of technology. Through the partnership URG leverages its networks and influence within Geneva and the human rights sector to test, develop, and generate interest and funds for the improvement and application of IMPACT OSS.
+    </p>
+    <p>
+      <a target="\_blank" href="https://universal-rights.org">
+        universal-rights.org
+      </a>
+    </p>
+  </div>
+</div>
