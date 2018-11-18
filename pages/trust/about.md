@@ -14,6 +14,10 @@ To advance global enjoyment of human rights and the realisation of the Sustainab
 
 A world in which technology plays a critical role in the effective implementation of human rights and sustainable development, empowering vulnerable groups and creating greater accountability and transparency.
 
+[Charitable Trust Deed (PDF)]({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)
+
+[Certificate of Incorporation (PDF)]({{ site.baseurl }}/resources/ImpactOSS_CertificateOfIncorporation.pdf)
+
 ---
 
 #### Who we are
