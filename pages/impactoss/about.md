@@ -8,9 +8,7 @@ video: 262605219
 video_source: vimeo
 ---
 
----
-
-# About IMPACT OSS
+## About
 
 **IMPACT OSS** is an _Open Source Software_ (OSS) for _Integrated Management and Planning of ACTions_ (IMPACT) that is maintained by the **Impact Open Source Software Trust** (see [About]({{site.baseurl}}/trust) to learn more about us).
 
@@ -46,6 +44,8 @@ All project code and related documentation are released under the [MIT Open Sour
 **[Get started with IMPACT OSS]({{site.baseurl}}/impactoss/get-started/)**
 
 ---
+
+![]({{site.urlimg}}features.png)
 
 # Features
 
@@ -104,13 +104,14 @@ All project code and related documentation are released under the [MIT Open Sour
 
 ---
 
-# Demo
+#### Demo sites
+# Try all the Imapct OSS functionality
 
-#### Standard configuration
+## Standard configuration
 
 Check out our demo installation at **[demo.impactoss.org](https://demo.impactoss.org)**. You can sign in and explore the admin features by using email `demo.manager@impactoss.org` and password `manager`.
 
-#### Other configurations for Small States
+## Other configurations for Small States
 
 Further demo installations, in particular aimed at Small States, are available at:
 
@@ -119,7 +120,7 @@ Further demo installations, in particular aimed at Small States, are available a
 
 The configuration and installation of these demo sites were funded by [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
 
-#### Personal demo
+## Personal demo
 
 We will happily give you an introduction and **schedule a personal demo** with you. Just get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).
 
@@ -129,13 +130,13 @@ We will happily give you an introduction and **schedule a personal demo** with y
 
 We are committed to continue improving IMPACT OSS. In particular, we are currently planning the following improvements
 
-#### Integration of third party-developments
+## Integration of third party-developments
 
 Ongoing developments by third parties that we are looking to integrate with IMPACT OSS.
 
 * **Accessibility**: as part of the enhancements for its National Plan of Action, the NZ Human Rights Commission has provided funding to make IMPACT OSS accessible and compliant with WCAG 2.0. Development is still ongoing and expected to be made available to all installations of IMPACT OSS in December 2018.
 
-#### Other planned enhancements
+## Other planned enhancements
 
 Enhancements we are planning but that subject to funding or third-party developments.
 
@@ -154,7 +155,7 @@ If you would like to **discuss or contribute** to any of the above features or *
 
 ---
 
-# Credits
+##  Credits
 
 #### Design and Development
 
