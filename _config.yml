@@ -91,7 +91,7 @@ prose:
           element: "checkbox"
           label: "Hide title"
           help: will hide post title where needed
-          value: "false"
+          value: false
       - name: header_title
         field:
           element: text
@@ -101,7 +101,7 @@ prose:
         field:
           element: text
           label: Header fullwidth image filename
-          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"          
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: subheadline
         field:
           element: text
@@ -150,7 +150,7 @@ prose:
           element: "checkbox"
           label: "Hide title"
           help: will hide post title where needed
-          value: "false"
+          value: false
       - name: header_title
         field:
           element: text
