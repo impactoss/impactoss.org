@@ -7,7 +7,9 @@ header_image: header-pattern.jpg
 header_title: Privacy Policy
 ---
 
-#### Website Owner and Data Controller
+# Contact information
+
+## Website Owner and Data Controller
 
 Impact Open Source Software Trust <br>
 18 Tennyson Street <br>
@@ -18,9 +20,7 @@ Owner contact email: [privacy@impactoss.org](mailto:privacy@impactoss.org)
 
 ---
 
-## Summary
-
----
+# Summary
 
 Without your explicit consent, this Website does not collect or store your Personal Data, **except for the essential hosting and infrastructure services** it requires to function.
 
@@ -28,29 +28,27 @@ In addition, and only **with your explicit consent, Personal Data is collected b
 
 In particular, Personal Data is collected for the following purposes and using the following services:
 
-#### Mandatory: hosting and backend infrastructure
+## Mandatory: hosting and backend infrastructure
 
 We use GitHub Pages to host our website.
 
-##### GitHub Pages
+#### GitHub Pages
 
 Personal Data: various types of Data as specified in the privacy policy of the service (see [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement/))
 
-#### Not mandatory: Displaying content from external platforms
+## Not mandatory: Displaying content from external platforms
 
 With your consent, we use Vimeo to host our videos.
 
-##### Vimeo video
+#### Vimeo video
 
 Personal Data: Cookies and Usage Data (see [Vimeo Privacy Policy](https://vimeo.com/privacy))
 
 ---
 
-## Details
+# Details
 
----
-
-### Types of Data collected
+## Types of Data collected
 
 The types of Personal Data that this Website may collect, by itself or through third parties, are:
 
@@ -70,15 +68,15 @@ Users are responsible for any third-party Personal Data obtained, published or s
 
 ---
 
-### Mode and place of processing the Data
+# Mode and place of processing the Data
 
-#### Methods of processing
+## Methods of processing
 
 The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Website (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-#### Legal basis of processing
+## Legal basis of processing
 The Owner may process Personal Data relating to Users if one of the following applies:
 
 * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing ("opt-out"), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
@@ -89,7 +87,7 @@ The Owner may process Personal Data relating to Users if one of the following ap
 
 In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
 
-#### Place
+## Place
 
 The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
@@ -99,7 +97,7 @@ Users are also entitled to learn about the legal basis of Data transfers to a co
 
 If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-#### Retention time
+## Retention time
 
 Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
@@ -114,7 +112,7 @@ Once the retention period expires, Personal Data shall be deleted. Therefore, th
 
 ---
 
-### The purposes of processing
+# The purposes of processing
 
 The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Displaying content from external platforms and Hosting and backend infrastructure.
 
@@ -122,7 +120,7 @@ Users can find further detailed information about such purposes of processing an
 
 ---
 
-### Detailed information on the processing of Personal Data
+# Detailed information on the processing of Personal Data
 
 Without your explicit consent, this Website does not collect or store your Personal Data, except for the essential hosting and infrastructure services it requires to function.
 
@@ -130,11 +128,11 @@ In addition, and only with your explicit consent, Personal Data is collected by 
 
 Personal Data is collected for the following purposes and using the following services:
 
-#### Mandatory: Hosting and backend infrastructure
+## Mandatory: Hosting and backend infrastructure
 
 This type of service has the purpose of hosting Data and files that enable this Website to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Website. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
 
-##### GitHub Pages (GitHub Inc.)
+#### GitHub Pages (GitHub Inc.)
 GitHub Pages is a hosting service provided by GitHub, Inc. GitHub is a Privacy Shield participant.
 
 **Personal Data collected**: various types of Data as specified in the privacy statement of the service.
@@ -143,13 +141,13 @@ GitHub Pages is a hosting service provided by GitHub, Inc. GitHub is a Privacy S
 
 [GitHub Privacy Statement](https://help.github.com/articles/github-privacy-statement/)
 
-#### Not mandatory:   Displaying content from external platforms
+## Not mandatory:   Displaying content from external platforms
 
 This type of service allows you to view content hosted on external platforms directly from the pages of this Website and interact with them.
 
 This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
 
-##### Vimeo video (Vimeo, LLC)
+#### Vimeo video (Vimeo, LLC)
 
 Vimeo is a video content visualization service provided by Vimeo, LLC that allows this Website to incorporate content of this kind on its pages. Vimeo is a Privacy Shield participant.
 
@@ -161,7 +159,7 @@ Vimeo is a video content visualization service provided by Vimeo, LLC that allow
 
 ---
 
-### The rights of Users
+# The rights of Users
 
 Users may exercise certain rights regarding their Data processed by the Owner.
 
@@ -176,18 +174,18 @@ In particular, Users have the right to do the following:
 * Receive their Data and have it transferred to another controller. Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.
 * Lodge a complaint. Users have the right to bring a claim before their competent data protection authority.
 
-#### Details about the right to object to processing
+## Details about the right to object to processing
 
 Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
 
 Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
 
-#### How to exercise these rights
+## How to exercise these rights
 Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
 
 ---
 
-### Additional information about Data collection and processing
+# Additional information about Data collection and processing
 
 #### Legal action
 
@@ -220,7 +218,7 @@ Should the changes affect processing activities performed on the basis of the Us
 
 ---
 
-### Definitions and legal references
+# Definitions and legal references
 
 #### Personal Data (or Data)
 
@@ -270,6 +268,6 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 
 ---
 
-Latest update: November 17, 2018
+###### Latest update: November 17, 2018
 
-Based on a Privacy Policy generated with [iubenda](https://www.iubenda.com/)
+###### Based on a Privacy Policy generated with [iubenda](https://www.iubenda.com/)
