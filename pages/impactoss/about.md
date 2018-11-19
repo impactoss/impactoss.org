@@ -53,7 +53,7 @@ All project code and related documentation are released under the [MIT Open Sour
 # Features
 
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-4 medium-6 columns">
     <h4>
       Manage and communicate implementation progress
     </h4>
@@ -61,7 +61,7 @@ All project code and related documentation are released under the [MIT Open Sour
       At its heart, IMPACT OSS was designed to allow managing or documenting a country's implementation of human rights and the SDGs, as well as communicate implementation progress to the public.
     </p>
   </div>
-  <div class="large-4 columns">
+  <div class="large-4 medium-6 columns">
     <h4>
       Powerful batch editing
     </h4>
@@ -69,7 +69,7 @@ All project code and related documentation are released under the [MIT Open Sour
       Batch editing allows updating multiple items at once, including associating recommendations and actions with clusters and categories ('tagging'), as well as with each other.
     </p>
   </div>
-  <div class="large-4 columns">
+  <div class="large-4 medium-6 columns">
     <h4>
       Import from CSV
     </h4>
@@ -79,7 +79,7 @@ All project code and related documentation are released under the [MIT Open Sour
   </div>
 </div>
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-4 medium-6 columns">
     <h4>
       Custom theming and configuration
     </h4>
@@ -87,7 +87,7 @@ All project code and related documentation are released under the [MIT Open Sour
       IMPACT OSS was designed and developed to be highly customisable, including configuration of clusters and categories to match each country's specific needs, and theming of the UI appearance to match individual branding requirements.
     </p>
   </div>
-  <div class="large-4 columns">
+  <div class="large-4 medium-6 columns">
     <h4>
       Optional: integration of SDGs
     </h4>
@@ -95,7 +95,7 @@ All project code and related documentation are released under the [MIT Open Sour
       IMPACT OSS allows managing the 17 SDGs (Sustainable Development Goals) and the 169 internationally agreed SDG targets.
     </p>
   </div>
-  <div class="large-4 columns">
+  <div class="large-4 medium-6 columns">
     <h4>
       Translation ready
     </h4>
@@ -106,7 +106,7 @@ All project code and related documentation are released under the [MIT Open Sour
 </div>
 
 ---
-![]({{site.urlimg}}impactoss-demo.png) 
+![]({{site.urlimg}}impactoss-demo.png)
 
 #### Demo sites
 

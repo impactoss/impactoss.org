@@ -47,7 +47,11 @@ Regardless, the installation requires the following steps
 3. Configure client
 4. Install client on suitable hosting provider
 
-Again, please see our **[Installation Guide](https://install-guide.impactoss.org)** for details.
+##### Documentation
+
+We have developed the following resource to support the installation of IMPACT OSS:
+
+* **[Installation Guide](https://install-guide.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-installation-guide))
 
 ## Operation
 
@@ -60,6 +64,13 @@ To operate IMPACT OSS, the following is required or recommended:
 In addition, it is recommended to
 
 * Update client and server applications sporadically when new versions become available
+
+##### Documentation
+
+We have developed the following resources to support the operation of IMPACT OSS:
+
+* **[Admin Quick Start Guide](https://quick-start.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-admin-quick-start-guide))
+* **[User Manual](https://user-manual.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-user-manual))
 
 ---
 
