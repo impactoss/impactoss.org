@@ -15,8 +15,9 @@ widget1:
 widget2:
   title: "IMPACT OSS"
   url: '/impactoss/'  
-  text: 'Leran more about what Impact OSS can do and how it can be used.'
+  text: 'Learn about the IMPACT OSS software and how to use it'
   video: video_teaser.png
+  video_el: videoModal
 widget3:
   title: "Get involved"
   url: '/get-involved/'

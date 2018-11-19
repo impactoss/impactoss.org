@@ -1,7 +1,7 @@
 <div class="medium-4 columns frontpage-widget">
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% if include.widget.video %}
-		<a href="#" data-reveal-id="videoModal">
+		<a href="#" data-reveal-id="{{ include.widget.video_el }}">
 			<img src="{{site.urlimg}}{{ include.widget.video }}">
 		</a>
 	{% else %}
