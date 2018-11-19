@@ -103,6 +103,7 @@ All project code and related documentation are released under the [MIT Open Sour
 </div>
 
 ---
+![]({{site.urlimg}}impactoss-demo.png) 
 
 #### Demo sites
 # Try all the IMPACT OSS functionality

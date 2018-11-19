@@ -10,18 +10,18 @@ teaser: Impact OSS – developing and supporting tools to coordinate and monitor
 widget1:
   title: "Who we are"
   url: '/trust/'
-  image: widget-1-302x182.jpg
-  text: 'About the Impact Open Source Software Trust'
+  image: trust-teaser.png
+  text: 'Learn about the Impact Open Source Software Trust'
 widget2:
   title: "IMPACT OSS"
   url: '/impactoss/'  
-  text: 'About the software'
+  text: 'Leran more about what Impact OSS can do and how it can be used.'
   video: video_teaser.png
 widget3:
-  title: "News"
-  url: '/blog/'
-  image: widget-github-303x182.jpg
-  text: 'Latest news'
+  title: "Get involved"
+  url: '/get-involved/'
+  image: get-involved-teaser.png
+  text: 'There are many ways to get involved and support this open source project.'
 #
 # Use the call for action to show a button on the frontpage
 #

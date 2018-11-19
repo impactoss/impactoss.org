@@ -1,7 +1,9 @@
 ---
-title: Privacy Policy
+title: Legal Notice
 published: true
 permalink: "/privacy-policy/"
+header_image: header-pattern.jpg
+header_title: Privacy Policy
 ---
 
 #### Website Owner and Data Controller
