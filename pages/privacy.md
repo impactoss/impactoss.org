@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+teaser: 
 published: true
 permalink: "/privacy-policy/"
 ---

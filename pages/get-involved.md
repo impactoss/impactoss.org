@@ -1,8 +1,6 @@
 ---
-title: "Support the Impact Open Source Software Trust"
-meta_title:
-subheadline:
-teaser:
+title: Get involved
+teaser: "Support the Impact Open Source Software Trust"
 permalink: "/get-involved/"
 header_image: header-pattern.jpg
 header_title: Get involved

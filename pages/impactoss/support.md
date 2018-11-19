@@ -1,8 +1,6 @@
 ---
-title: "What we can do for you"
-meta_title:
-subheadline:
-teaser:
+title: Support
+teaser: "What we can do for you"
 permalink: "/impactoss/support/"
 header_image: header-pattern.jpg
 header_title: Support
