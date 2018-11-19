@@ -13,9 +13,11 @@ video_source: vimeo
 
 **IMPACT OSS** is an _Open Source Software_ (OSS) for _Integrated Management and Planning of ACTions_ (IMPACT) that is maintained by the **Impact Open Source Software Trust** (see [About]({{site.baseurl}}/trust) to learn more about us).
 
+IMPACT OSS is primarily designed to help **Governments' NMIRFs** (National Mechanism for Implementation, Reporting and Follow-up) and independent **NHRIs** (National Human Rights Institutions), but can also be used by **Human Rights NGOs** that wish to hold Governments accountable.
+
 IMPACT OSS evolved from combining the development efforts for [Sadata](https://sadata-production.firebaseapp.com), Samoa's Database for its _National Mechanism for Reporting and Follow-up_ (NMRF), and the [New Zealand National Plan of Action](https://npa.hrc.co.nz) that is managed by the [New Zealand Human Rights Commission](https://hrc.co.nz) (see below for further credits).
 
-IMPACT OSS consists of a **server application** (the 'API', [server source code (Rails)](https://github.com/impactoss/impactoss-server)) that manages the database, user authentication and automated emails, and a **client application** (the 'UI', [client source code (React/JavaScript)](https://github.com/impactoss/impactoss-client)) that serves as the user interface for both the public and admin users.
+IMPACT OSS consists of a **server application** (the 'API', [server source code](https://github.com/impactoss/impactoss-server) (Rails)) that manages the database, user authentication and automated emails, and a **client application** (the 'UI', [client source code ](https://github.com/impactoss/impactoss-client) (React/JavaScript)) that serves as the user interface for both the public and admin users.
 
 All project code and related documentation are released under the [MIT Open Source License](https://github.com/impactoss/impactoss-client/blob/master/LICENSE.md) that allows any person or organisation to **use, modify and distribute the software free of charge** as long as the original copyright and license notice is included.
 
@@ -37,7 +39,7 @@ All project code and related documentation are released under the [MIT Open Sour
       Managed installation
     </h4>
     <p>
-      Alternatively, you can hire us to install and host IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
+      Alternatively, you can hire the Trust to install and host IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
     </p>
   </div>
 </div>
@@ -107,6 +109,7 @@ All project code and related documentation are released under the [MIT Open Sour
 ![]({{site.urlimg}}impactoss-demo.png) 
 
 #### Demo sites
+
 # Try all the IMPACT OSS functionality
 
 ## Standard configuration
@@ -115,12 +118,10 @@ Check out our demo installation at **[demo.impactoss.org](https://demo.impactoss
 
 ## Other configurations for Small States
 
-Further demo installations, in particular aimed at Small States, are available at:
+Further demo installations, provided by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html) and in particular aimed at Small States, are available at:
 
 * **[demo-rights.impactoss.org](https://demo-rights.impactoss.org)**: Human Rights implementation only, no SDGs
 * **[demo-sdgs.impactoss.org](https://demo-sdgs.impactoss.org)**: Human Rights and SDG implementation
-
-The configuration and installation of these demo sites were funded by [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
 
 ## Personal demo
 
@@ -129,6 +130,7 @@ We will happily give you an introduction and **schedule a personal demo** with y
 ---
 
 #### Roadmap
+
 # Where we are heading
 
 We are committed to continue improving IMPACT OSS. In particular, we are currently planning the following improvements
@@ -155,6 +157,16 @@ Enhancements we are planning but that subject to funding or third-party developm
 * **User invitation**: allow inviting new users from within the application
 
 If you would like to **discuss or contribute** to any of the above features or **have ideas for any other features**, please get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).
+
+---
+
+![]({{site.urlimg}}open.png)
+
+# Free and open source
+
+The source code for both server and client is open source and freely available under the MIT license. Anyone is therefore permitted to **use, modify and distribute the source code free of charge**.
+
+However, we strongly encourage users to make any significant enhancements available to all other users by contributing them back to the core open source project (see [Get involved]({{site.baseurl}}/impactoss/get-involved/) for details).
 
 ---
 
