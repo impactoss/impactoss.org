@@ -54,6 +54,9 @@ body.video cite { color: #fff; }
         margin-right: rem-calc(8);
     }
 }
+#navigation.fixed {
+    position: fixed;    
+}
 
 
 .top-bar-section ul.dropdown li.title.back h5 a {
