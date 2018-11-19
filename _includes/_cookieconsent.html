@@ -46,7 +46,7 @@ function ccEnableLinks() {
   if (window.cc) {
     $('.cc-enable-click').click(function(e){
       e.preventDefault();
-      ccOpenDialog(cc);
+      ccOpenDialog(window.cc);
     });
   }
 }
