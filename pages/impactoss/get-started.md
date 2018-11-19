@@ -63,4 +63,4 @@ In addition, it is recommended to
 
 ---
 
-If you need help please have a look at [Support for IMPACT OSS]({{ site.baseurl }}/impactoss/support) for the services we offer or just write to [info@impactoss.org](mailto:info@impactoss.org)
+If you need help with any of the above or custom development of new and existing features, please have a look at [Support for IMPACT OSS]({{ site.baseurl }}/impactoss/support) for the services we offer or just write to [info@impactoss.org](mailto:info@impactoss.org)
