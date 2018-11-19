@@ -33,7 +33,7 @@ Please see our **[Installation Guide](https://install-guide.impactoss.org)** for
 
 Before you start, you will need to create your own copy of the source codes, selecting one of the three configuration options we offer. Alternatively to the
 
-* standard `master` branches ([client](https://github.com/impactoss/impactoss-client), [server](https://github.com/impactoss/impactoss-server), [demo](https://demo.impactoss.org)),
+* `master` branches ([client](https://github.com/impactoss/impactoss-client), [server](https://github.com/impactoss/impactoss-server), [demo](https://demo.impactoss.org)) for the standard configuration,
 
 you can also start with one of the configuration options provided by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html) and in particular aimed at Small States:
 
