@@ -86,6 +86,22 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "hide_title"
+        field:
+          element: "checkbox"
+          label: "Hide title"
+          help: will hide post title where needed
+          value: "false"
+      - name: header_title
+        field:
+          element: text
+          label: Header title
+          help: on top of header image (if set will be shown instead of Title)
+      - name: header_image
+        field:
+          element: text
+          label: Header fullwidth image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"          
       - name: subheadline
         field:
           element: text
@@ -105,11 +121,6 @@ prose:
               value: page-fullwidth
             - name: "Narrow page"
               value: page
-      - name: header_image
-        field:
-          element: text
-          label: Header fullwidth image filename
-          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_filename
         field:
           element: text
@@ -134,6 +145,22 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+      - name: "hide_title"
+        field:
+          element: "checkbox"
+          label: "Hide title"
+          help: will hide post title where needed
+          value: "false"
+      - name: header_title
+        field:
+          element: text
+          label: Header title
+          help: on top of header image (if set will be shown instead of Title)
+      - name: header_image
+        field:
+          element: text
+          label: Header fullwidth image filename
+          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: permalink
         field:
           element: text
@@ -158,11 +185,6 @@ prose:
               value: page-fullwidth
             - name: "Narrow page"
               value: page
-      - name: header_image
-        field:
-          element: text
-          label: Header fullwidth image filename
-          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
       - name: image_filename
         field:
           element: text
