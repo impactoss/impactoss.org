@@ -75,7 +75,7 @@ window.addEventListener("load", function(){
       "policy": "Update privacy preferences",
       "target": "",
     },
-    onInitialise: function () {
+    "onInitialise": function () {
       window.cc = this;
       if (this.hasConsented()) {
         // enable cookies
@@ -84,8 +84,7 @@ window.addEventListener("load", function(){
         ccDisableEmbeds();
       }
     },
-
-    onStatusChange: function(status, chosenBefore) {
+    "onStatusChange": function(status, chosenBefore) {
       if (this.hasConsented()) {
         ccEnableEmbeds();
       } else {
