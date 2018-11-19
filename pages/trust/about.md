@@ -7,13 +7,17 @@ teaser: "To advance global enjoyment of human rights and the realisation of the 
 header_title: The Impact Open Source Software Trust
 ---
 
-## Mission Statement
-
-To advance global enjoyment of human rights and the realisation of the Sustainable Development Goals through open source technologies.
-
 ## Vision
 
-A world in which technology plays a critical role in the effective implementation of human rights and sustainable development, empowering vulnerable groups and creating greater accountability and transparency.
+A world in which technology plays a critical role in the effective implementation of human rights and sustainable development, as well as sharing of knowledge, empowering vulnerable groups and creating greater accountability and transparency.
+
+## Objectives
+
+Our objectives are to advance the enjoyment of human rights and the realisation of the United Nations Sustainable Development Goals by developing, maintaining, promoting and training in the use of suitable open source technologies that will
+
+* improve States' and Civil Society's ability to implement, monitor, analyse and communicate States' human rights obligations and measures, as well as the Sustainable Development Goals set out by the United Nations;
+* encourage transparency and accountability of States' human rights obligations and realisation of Sustainable Development Goals;
+* encourage sharing of intellectual property and technological knowledge and expertise between States and Civil Society.
 
 [Charitable Trust Deed (PDF)]({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)
 
@@ -122,7 +126,7 @@ All technologies the Trust is associated with seek to advance the fundamental pr
 
 ## Consensual decision making
 
-The Trust Deed which establishes the Impact Open Source Software Trust sets out a decision making process rooted firmly in consensual decision making. Equality is also at the heart of the Trust constitution which seeks to establish a gender balance on the Board at any time. We are therefore always seeking applications from interested parties - please email your CV and expression of interest to info@impactoss.org to be considered.  
+The [Trust Deed](({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)) which establishes the Impact Open Source Software Trust sets out a decision making process rooted firmly in consensual decision making. Equality is also at the heart of the Trust constitution which seeks to establish a gender balance on the Board at any time. We are therefore always seeking applications from interested parties - please email your CV and expression of interest to [contact@impactoss.org](mailto:contact@impactoss.org) to be considered.  
 
 ---
 
@@ -143,9 +147,11 @@ The Trust Deed which establishes the Impact Open Source Software Trust sets out 
       The Trust and URG signed an MOU in October 2017 in recognition of their shared aim to advance the implementation agenda through the use of technology. Through the partnership URG leverages its networks and influence within Geneva and the human rights sector to test, develop, and generate interest and funds for the improvement and application of IMPACT OSS.
     </p>
     <p>
-      <a target="\_blank" href="https://universal-rights.org">
-        universal-rights.org
-      </a>
+      <a target="\_blank" href="https://universal-rights.org">universal-rights.org</a>
     </p>
   </div>
 </div>
+
+<br>
+
+Please [contact us](mailto:contact@impactoss.org) or go to [Get involved]({{ site.baseurl }}/get-involved/) if you are interested in partnering or supporting us.
