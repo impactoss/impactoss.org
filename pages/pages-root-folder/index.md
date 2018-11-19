@@ -6,23 +6,26 @@
 #
 layout: frontpage
 header_image: home-2.png
-teaser: Impact OSS – developing and supporting tools to coordinate and monitor the implementation of human rights and the SDGs. Transparent progress and efforts.
+teaser: Impact Open Source Software Trust – open source technologies to improve realisation and transparency of human rights and the SDGs
 widget1:
   title: "Who we are"
+  button: "About us"
   url: '/trust/'
   image: trust-teaser.png
   text: 'Learn about the Impact Open Source Software Trust'
 widget2:
   title: "IMPACT OSS"
+  button: "About IMPACT OSS"
   url: '/impactoss/'  
-  text: 'Learn about the IMPACT OSS software and how to use it'
+  text: 'Read about the IMPACT OSS application and how to get your own installation'
   video: video_teaser.png
   video_el: videoModal
 widget3:
   title: "Get involved"
+  button: "Support us"
   url: '/get-involved/'
   image: get-involved-teaser.png
-  text: 'There are many ways to get involved and support this open source project.'
+  text: 'Find out how you can support us and our open source development efforts.'
 #
 # Use the call for action to show a button on the frontpage
 #
