@@ -1,0 +1,98 @@
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/cookieconsent.min.js"></script>
+<script>
+
+function ccOpenDialog(cc) {
+  console.log('cc.open', cc.open)
+  if (cc.open) cc.open();
+}
+
+function ccEnableEmbeds() {
+  $('.embed-video').each(function() {
+    var videoId = $(this).data('video');
+    var videoSource = $(this).data('video-source');
+    if (videoSource === 'vimeo') {
+      $(this).html(
+        '<p class="embed-video-enabled">'
+        + '<iframe src="https://player.vimeo.com/video/' + videoId + '?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>'
+        + '</iframe>'
+        + '</p>'
+      );
+    }
+  })
+}
+
+function ccDisableEmbeds() {
+  $('.embed-video').each(function() {
+    var videoId = $(this).data('video');
+    var videoSource = $(this).data('video-source');
+    if (videoSource === 'vimeo') {
+      var url = '//vimeo.com/'+videoId;
+      $(this).html(
+        '<p class="embed-video-disabled" style="position:absolute;top:0;">'
+        + 'To show the embedded video please '
+        + '<a href="#" class="cc-enable-click">enable</a> '
+        + 'third-party services (and cookies) or watch the video on '
+        + '<a target="_blank" href="'+url+'">Vimeo</a>.'
+        + '</p>'
+      );
+      ccEnableLinks()
+    }
+  })
+}
+
+function ccEnableLinks() {
+  console.log('cc.enable', window.cc)
+  if (window.cc) {
+    $('.cc-enable-click').click(function(e){
+      e.preventDefault();
+      ccOpenDialog(cc);
+    });
+  }
+}
+
+window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#232B2B"
+      },
+      "button": {
+        "background": "#0077d8"
+      }
+    },
+    "position": "bottom-left",
+    "type": "opt-in",
+    "layout": "basic-header",
+    "content": {
+      "header": "Cookie preference & privacy",
+      "message": "By using this Website you agree to store your Personal Data where it is essential for the Website to function. \
+        In addition, you can enable non-essential third-party services that may store Cookies and Usage Data.",
+      "allow": "Allow third-party services",
+      "deny": "Decline",
+      "link": "Our privacy policy",
+      "href": "{{site.baseurl}}/privacy-policy/",
+      "policy": "Update privacy preferences",
+      "target": "",
+    },
+    onInitialise: function () {
+      window.cc = this;
+      if (this.hasConsented()) {
+        // enable cookies
+        ccEnableEmbeds();
+      } else {
+        ccDisableEmbeds();
+      }
+    },
+
+    onStatusChange: function(status, chosenBefore) {
+      if (this.hasConsented()) {
+        ccEnableEmbeds();
+      } else {
+        ccDisableEmbeds();
+      }
+    },
+  });
+  ccEnableLinks()
+});
+</script>

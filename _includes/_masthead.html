@@ -1,4 +1,14 @@
-{% if page.header_image %}
+{% if page.header_title %}
+
+<div id="masthead-with-text">
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="masthead-title">{{ page.header_title }}</div>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+{% elsif page.header_image %}
 
 <div id="masthead"></div><!-- /#masthead -->
 

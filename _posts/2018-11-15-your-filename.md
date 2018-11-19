@@ -1,7 +1,13 @@
 ---
 layout: page-fullwidth
-published: true
-title: Your filename
+published: false
+subheadline: ''
+teaser: 'Blog post teaser text'
+header_image: ''
+image_filename: 'video_teaser.png'
+image_thumb: 'video_teaser.png'
+image_caption: ''
+image_caption_url: ''
 ---
 ## A New Post
 

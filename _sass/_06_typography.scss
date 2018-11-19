@@ -27,10 +27,7 @@ Check typography variables › _3_typography_settings.scss
 a,
 a:link {
     transition: all .4s;
-}
-
-a:visited {
-    border-bottom: $grey-2;
+    transition: border 0s;
 }
 
 a:hover {
@@ -61,12 +58,11 @@ p {
 }
 p a,
 article a {
-    font-weight: bold;
-    border-bottom: 1px dotted;
+    border-bottom: 1px solid;
 }
 p a:hover,
 article a:hover {
-    border-bottom: 2px solid;
+    border-bottom: 1px solid;
 }
 p a.button,
 .button,
@@ -92,26 +88,33 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: $font-size-h1;
-    margin-top: 0;
+    margin: 0.2em 0 0.6em 0;
 }
 h2 {
     font-size: $font-size-h2;
-    margin: 1.563em 0 0 0;
+    margin: 1.8em 0 0.4em 0;
 }
     .blog-index h2 {
         margin-top: 0;
     }
 h3 {
     font-size: $font-size-h3;
-    margin: 1.152em 0 0 0;
+    margin: 1.152em 0 1em 0;
 }
 h4 {
     font-size: $font-size-h4;
-    margin: 1.152em 0 0 0;
+    font-weight: bold;
+    margin: 1em 0 0 0;
 }
 h5 {
     font-size: $font-size-h5;
-    margin: 1em 0 0 0;
+    margin: 0.5em 0 0 0;
+}
+
+h6 {
+    font-size: $font-size-h6;
+    color:$grey-7;
+    margin: 0.25em 0 1.2em 0;
 }
 
 
@@ -119,13 +122,12 @@ h5 {
 /* Images
 ------------------------------------------------------------------- */
 
-img { border-radius: $global-radius;}
-    img.alignleft,
-    img.left        { float: left; margin:5px 15px 5px 0; }
-    img.alignright,
-    img.right       { float: right; margin:5px 0 5px 15px; }
-    img.aligncenter,
-    img.center      { display: block; margin:0 auto 10px; }
+img.alignleft,
+img.left        { float: left; margin:5px 15px 5px 0; }
+img.alignright,
+img.right       { float: right; margin:5px 0 5px 15px; }
+img.aligncenter,
+img.center      { display: block; margin:0 auto 10px; }
 
 figure {
     margin: 0 0 rem-calc(30) 0;
@@ -136,9 +138,9 @@ figure {
 }
 figcaption,
 .masthead-caption {
-    color: $grey-10;
+    color: $grey-6;
     font-family: $font-family-sans-serif;
-    font-size: rem-calc(13);
+    font-size: rem-calc(11);
     padding-top: rem-calc(2);
 }
 figcaption a,
@@ -197,7 +199,11 @@ ul, ol {
     padding: 0;
 }
 li {
-    margin-left: 0;
+    margin: 0 0 0 0;
+}
+
+article li {
+    margin: 0 0 0 30px;
 }
 
 .no-bullet {
@@ -233,23 +239,27 @@ article dl dd   { line-height: 1.6; margin-bottom: rem-calc(12); margin-left: re
 ------------------------------------------------------------------- */
 
 blockquote {
-    font-style: italic;
     position: relative;
     border: none;
-    margin: 0 30px 30px 30px;
+    margin: 0 40px 30px 40px;
     color:  $grey-11;
 }
 
-    blockquote p {font-style: italic; color: $grey-10; }
+    blockquote p {
+      font-size: $font-size-h4;
+      font-family: $font-family-monospace;
+      color: $grey-7;
+    }
 
     blockquote:before {
-        display:block;content:"\00BB";
+        display:block;
+        content:"\00BB";
         font-size:80px;
         line-height: 0;
         position:absolute;
-        left:-25px;
+        left:-30px;
         top: auto;
-        color: $grey-11;
+        color: $grey-7;
     }
     blockquote:after {
         display:block;
@@ -257,9 +267,9 @@ blockquote {
         font-size:80px;
         line-height: 0;
         position:absolute;
-        right:-10px;
-        bottom: 20px;
-        color: $grey-11;
+        right:-20px;
+        bottom: 30px;
+        color: $grey-7;
     }
     blockquote cite:before {
         content:"\2014 \0020"
@@ -285,17 +295,23 @@ mark {
 ------------------------------------------------------------------- */
 
 .subheadline {
-    font-size: rem-calc(16);
+    font-size: rem-calc(14);
+    color: $grey-7;
     margin: 0;
 }
 .teaser {
-    font-size: rem-calc(20);
+    font-size: $font-size-h2;
+    margin: 1.2em 0 1.8em 0 ;
 }
 .big-teaser {
     font-style: italic; font-weight: 300;
 }
 .big-teaser a {
     font-style: italic; font-weight: 400;
+}
+
+.frontpage .teaser {
+  font-size: $font-size-h1;
 }
 
 /* Smaller Fontsize for Bigteaser on small devices */

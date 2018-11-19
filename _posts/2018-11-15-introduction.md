@@ -5,17 +5,25 @@ teaser: >-
   The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition. On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change.
 published: true
 author: ashbowe
+video: 262605219
+video_source: vimeo
+image_filename: 
+image_thumb: 'video_teaser.png'
 ---
 
 The emergence of National Mechanisms for Reporting, Implementation and Follow-Up (NMRIF) as opposed to an ad hoc approach to reporting is one of the few areas for optimism. In addressing the High Commissioner at Human Rights Council 34 the NMRIF Group of Friends highlighted the potential of such entities in this regard:
 
-> "A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up."
+> A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up.
+
+## Challenges
 
 However, NMRIFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 578 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report.
 
 Overdue reporting is symptomatic of a lack of implementation planning and coordination and as a state receives additional sets of recommendations, the burden grows and it becomes increasingly difficult to get back on track and stay there. NMRIFs are an excellent vehicle for monitoring and coordinating implementation of human rights but of themselves are not equipped to manage hundreds of overlapping recommendations, all of which require data collection and reporting at different times.
 
 Little attention has yet been given to what tools can be developed to make them even more effective in their work. Paraguay's Simore and New Zealand's Plan of Action are early and commendable efforts. However, until recently no tool existed that comprehensively addressed the reporting burden states face, in particular the issues of reliable regular data collection across multiple ministries and efficiently managing hundreds of overlapping human rights recommendations received at various times (not to mention the SDGs and other national development priorities).
+
+## A tool to help
 
 IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was borne out of the Pacific and designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges.
 
@@ -31,6 +39,10 @@ Previously, the person(s) tasked with compiling a periodic report could expect t
 
 Using IMPACT OSS effectively means the person responsible for the periodic report simply has to select the human rights mechanism they are reporting to and all of the required data will instantly be at their fingertips, organized thematically. They just have to write the narrative to accompany the data. A collaborative report writing and export feature is currently under development to make the process even easier.
 
+## Open source
+
 IMPACT OSS is an open source tool meaning it is freely available for use by any state. Support for deploying the tool, managed hosting and training is all offered by the Impact OSS Trust. Or developer and user guides are available for states wishing to use their own expertise.
+
+## Get in touch
 
 Universal Rights Group is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. A global launch event is scheduled in Geneva for later this year and in the meantime more information can be found at www.impactoss.org or the Trust can be contacted via info@impactoss.org

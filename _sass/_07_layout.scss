@@ -48,12 +48,28 @@ body.video cite { color: #fff; }
 #navigation {
     -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,.2);
     box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
-
+    z-index: 1;
+    position: relative;
     [class^='icon-']:before, [class*=' icon-']:before {
         margin-right: rem-calc(8);
     }
 }
 
+
+.top-bar-section ul.dropdown li.title.back h5 a {
+  display: block;
+  position: relative;
+  &:after {
+    @if ($topbar-arrows){
+      @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), $opposite-direction);
+    }
+    margin-#{$default-float}: $topbar-link-padding;
+    margin-top: -($topbar-dropdown-toggle-size / 2) - 2;
+    position: absolute;
+    top: 50%;
+    #{$default-float}: 0;
+  }
+}
 
 
 /* Search
@@ -76,9 +92,11 @@ body.video cite { color: #fff; }
 }
 #masthead-with-text {
     text-align: center;
-    font-size: rem-calc(54);
+    font-size: 4em;
+    text-align: left;
+    font-weight: bold;
     font-family: $header-font-family;
-    color: #fff;
+    color: $text-color;
 }
 #masthead-no-image-header {
     height: 175px;
@@ -215,18 +233,22 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #page-meta, #page-meta a {
-    color: $grey-5;
+    color: $grey-6;
+}
+
+#page-meta a:hover {
+    color: $grey-7;
 }
 
 #page-meta .button {
-    background: $grey-5;
+    background: $grey-6;
     border: 0;
 }
 #page-meta .button {
     color: #fff;
 }
 #page-meta .button:hover {
-    background: $primary-color;
+    background: $grey-7;
 }
 .meta-info p {
   font-size: rem-calc(13);
@@ -274,6 +296,27 @@ body.video cite { color: #fff; }
     padding-bottom: 20px;
     background: $footer-bg;
     color: $footer-color;
+
+    .social-icons {
+        margin-bottom: 10px !important;
+
+    // Beware of SCSS-Syntax here
+      li {
+        padding: 0 0 10px 0;
+      }
+      a {
+        font-size: rem-calc(23);
+        display: block;
+        width: 36px;
+        border-radius: 50%;
+        color: $footer-color;
+        background: $footer-bg;
+        text-align: center;
+        &:hover {
+          background: #fff;
+        }
+      }
+    }
     }
 
     #footer a {
@@ -286,6 +329,7 @@ body.video cite { color: #fff; }
 
 
 
+
 /* Subfooter
 ------------------------------------------------------------------- */
 
@@ -293,6 +337,7 @@ body.video cite { color: #fff; }
     background: $subfooter-bg;
     color: $subfooter-color;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 #subfooter-left ul.inline-list {
@@ -307,29 +352,9 @@ body.video cite { color: #fff; }
   }
 }
 
-.social-icons {
-    margin-bottom: 10px !important;
-
-// Beware of SCSS-Syntax here
-  li {
-    padding: 0 0 20px 0;
-  }
-  a {
-    font-size: rem-calc(23);
-    display: block;
-    width: 36px;
-    border-radius: 50%;
-    color: $subfooter-bg;
-    background: $subfooter-color;
-    text-align: center;
-    &:hover {
-      background: $subfooter-bg;
-      color: #fff;
-    }
-  }
+.reveal-modal, .reveal-modal-bg {
+  position: fixed;
 }
-
-
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */

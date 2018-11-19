@@ -5,24 +5,24 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header.png
-  logo: false
+header_image: home-2.png
+teaser: Impact OSS – developing and supporting tools to coordinate and monitor the implementation of human rights and the SDGs. Transparent progress and efforts.
 widget1:
   title: "Who we are"
   url: '/trust/'
-  image: widget-1-302x182.jpg
-  text: 'About the Impact Open Source Software Trust'
+  image: trust-teaser.png
+  text: 'Learn about the Impact Open Source Software Trust'
 widget2:
   title: "IMPACT OSS"
   url: '/impactoss/'  
-  text: 'About the software'
+  text: 'Learn about the IMPACT OSS software and how to use it'
   video: video_teaser.png
+  video_el: videoModal
 widget3:
-  title: "News"
-  url: '/blog/'
-  image: widget-github-303x182.jpg
-  text: 'Latest news'
+  title: "Get involved"
+  url: '/get-involved/'
+  image: get-involved-teaser.png
+  text: 'There are many ways to get involved and support this open source project.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,10 +33,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: /get-involved/
-  text: Get involved
-  style: info
+#callforaction:
+#  url: /get-involved/
+#  text: Get involved
+#  style: info
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -46,6 +46,8 @@ homepage: true
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/262605219?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <div class="embed-video" data-video="262605219" data-video-source="vimeo"></div>
+  </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>

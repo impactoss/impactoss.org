@@ -14,7 +14,7 @@ title: 'Impact Open Source Software Trust'
 slogan: 'TODO: our slogan'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'TODO: description'
+description: 'We are incorporated as a charitable trust under NZ’s Charitable Trusts Act of 1957 with the objective to advance the enjoyment of human rights and the realisation of the UN SDGs.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: 'Created by Impact Open Source Software Trust. Based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -128,17 +128,12 @@ prose:
         field:
           element: text
           label: Title image caption URL
-      - name: image_homepage
-        field:
-          element: text
-          label: Homepage image filename (not sure what this does actually)
-          help: "As stored in '/images' folder. To upload a new image insert it somewhere into page/post, then remove it"
     pages:
       - name: "title"
         field:
           element: "text"
           label: "Title"
-          value: ""      
+          value: ""
       - name: permalink
         field:
           element: text
@@ -287,27 +282,6 @@ bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
-
-
-#       ______            _
-#      / ____/___ __   __(_)________  ____  _____
-#     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
-#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
-#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
-#                                                 More information » https://mathiasbynens.be/notes/touch-icons
-
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
 
 
 #       ______                __                __
