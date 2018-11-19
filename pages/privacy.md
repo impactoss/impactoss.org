@@ -26,6 +26,8 @@ Without your explicit consent, this Website does not collect or store your Perso
 
 In addition, and only **with your explicit consent, Personal Data is collected by third-party services**. You can disable these third-party services by declining your consent at any time. To remember your third-party cookie preference, this Website uses a cookie.
 
+**<a href="#" class="cc-enable-click" title="Update privacy preferences">Click here to update your privacy preferences</a>**
+
 In particular, Personal Data is collected for the following purposes and using the following services:
 
 ## Mandatory: hosting and backend infrastructure
@@ -271,3 +273,7 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 ###### Latest update: November 17, 2018
 
 ###### Based on a Privacy Policy generated with [iubenda](https://www.iubenda.com/)
+
+---
+
+**<a href="#" class="cc-enable-click" title="Update privacy preferences">Click here to update your privacy preferences</a>**

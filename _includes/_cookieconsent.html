@@ -2,7 +2,12 @@
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/cookieconsent.min.js"></script>
 <script>
 
-function enableEmbeds() {
+function ccOpenDialog(cc) {
+  console.log('cc.open', cc.open)
+  if (cc.open) cc.open();
+}
+
+function ccEnableEmbeds() {
   $('.embed-video').each(function() {
     var videoId = $(this).data('video');
     var videoSource = $(this).data('video-source');
@@ -17,21 +22,33 @@ function enableEmbeds() {
   })
 }
 
-function disableEmbeds() {
+function ccDisableEmbeds() {
   $('.embed-video').each(function() {
     var videoId = $(this).data('video');
     var videoSource = $(this).data('video-source');
     if (videoSource === 'vimeo') {
       var url = '//vimeo.com/'+videoId;
-      var anchor = 'vimeo.com/'+videoId;
       $(this).html(
         '<p class="embed-video-disabled" style="position:absolute;top:0;">'
-        + 'Please allow third-party services to show the embedded video or watch the video on Vimeo:'
-        + '<a target="_blank" href="'+url+'">' + anchor + '</a>'
+        + 'To show the embedded video please '
+        + '<a href="#" class="cc-enable-click">enable</a> '
+        + 'third-party services (and cookies) or watch the video on '
+        + '<a target="_blank" href="'+url+'">Vimeo</a>.'
         + '</p>'
       );
+      ccEnableLinks()
     }
   })
+}
+
+function ccEnableLinks() {
+  console.log('cc.enable', window.cc)
+  if (window.cc) {
+    $('.cc-enable-click').click(function(e){
+      e.preventDefault();
+      ccOpenDialog(cc);
+    });
+  }
 }
 
 window.addEventListener("load", function(){
@@ -55,25 +72,27 @@ window.addEventListener("load", function(){
       "deny": "Decline",
       "link": "Our privacy policy",
       "href": "{{site.baseurl}}/privacy-policy/",
-      "policy": "Cookie preference & privacy",
+      "policy": "Update privacy preferences",
       "target": "",
     },
     onInitialise: function () {
+      window.cc = this;
       if (this.hasConsented()) {
         // enable cookies
-        enableEmbeds();
+        ccEnableEmbeds();
       } else {
-        disableEmbeds()
+        ccDisableEmbeds();
       }
     },
 
     onStatusChange: function(status, chosenBefore) {
       if (this.hasConsented()) {
-        enableEmbeds();
+        ccEnableEmbeds();
       } else {
-        disableEmbeds()
+        ccDisableEmbeds();
       }
     },
-  })
+  });
+  ccEnableLinks()
 });
 </script>
