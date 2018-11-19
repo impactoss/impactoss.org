@@ -1,8 +1,9 @@
 ---
-title: "IMPACT OSS is a software created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs), and also communicate implementation progress to the public."
+title: About IMPACT OSS
+hide_title: true
 meta_title:
 subheadline:
-teaser:
+teaser: "IMPACT OSS is a software created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs), and also communicate implementation progress to the public."
 permalink: "/impactoss/"
 video: 262605219
 video_source: vimeo

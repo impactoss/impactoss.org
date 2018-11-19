@@ -1,8 +1,9 @@
 ---
-title: "To advance global enjoyment of human rights and the realisation of the Sustainable Development Goals through open source technologies."
+title: The Impact Open Source Software Trust
 meta_title:
 permalink: "/trust/"
 header_image: header-pattern.jpg
+teaser: "To advance global enjoyment of human rights and the realisation of the Sustainable Development Goals through open source technologies."
 header_title: The Impact Open Source Software Trust
 ---
 

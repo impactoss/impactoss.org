@@ -1,11 +1,9 @@
 ---
-title: "Get in touch"
-meta_title:
-subheadline:
-teaser: ""
+title: Contact
+teaser: "Get in touch"
 permalink: "/contact/"
-header_image: header-pattern.jpg
 header_title: Contact
+header_image: header-pattern.jpg
 ---
 
 ## We love to hear from you

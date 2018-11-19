@@ -1,8 +1,7 @@
 ---
-title: "A brief overview of the technical and knowledge building tasks required to get started with IMPACT OSS and options for using independent developers and the services provided by the IMPACT OSS Group, including an overview of the expected costs."
+title: Get started with IMPACT OSS
 meta_title:
-subheadline:
-teaser:
+teaser: "A brief overview of the technical and knowledge building tasks required to get started with IMPACT OSS and options for using independent developers and the services provided by the IMPACT OSS Group, including an overview of the expected costs."
 permalink: "/impactoss/get-started/"
 header_image: header-pattern.jpg
 header_title: Get started with IMPACT OSS

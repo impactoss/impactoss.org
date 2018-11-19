@@ -1,5 +1,6 @@
 ---
-title: Legal Notice
+title: Privacy Policy
+teaser:
 published: true
 permalink: "/privacy-policy/"
 header_image: header-pattern.jpg
