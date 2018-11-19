@@ -233,18 +233,22 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #page-meta, #page-meta a {
-    color: $grey-5;
+    color: $grey-6;
+}
+
+#page-meta a:hover {
+    color: $grey-7;
 }
 
 #page-meta .button {
-    background: $grey-5;
+    background: $grey-6;
     border: 0;
 }
 #page-meta .button {
     color: #fff;
 }
 #page-meta .button:hover {
-    background: $primary-color;
+    background: $grey-7;
 }
 .meta-info p {
   font-size: rem-calc(13);
