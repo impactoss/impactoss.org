@@ -98,7 +98,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Founding Trustee
     </h6>
     <p>
-      Timo is a software developer and information designer and is a director at <a href="http://unfolddata.com" target="_blank" tile="Unfold Data (formerly dumpark)">Unfold Data (formerly dumpark)</a>
+      Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer at data visualisation agency <a href="http://unfolddata.com" target="_blank" tile="Unfold Data (formerly dumpark)">Unfold Data (formerly dumpark)</a> he has contributed significantly to the concept and code of IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/tmfrnz">
