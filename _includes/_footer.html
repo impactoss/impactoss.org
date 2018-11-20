@@ -8,7 +8,7 @@
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
-          <div class="small-6 medium-6 large-5 columns">
+          <div class="medium-6 large-5 columns">
             <h5 class="">{{ site.data.language.info_website }}</h5>
 
             <p class="">
@@ -24,7 +24,7 @@
           </div><!-- /.large-6.columns -->
 
 
-          <div class="small-6 medium-2 large-offset-1 columns">
+          <div class="medium-2 large-offset-1 columns">
             {% for content_item in site.data.content %}
               {% if forloop.first == true %}
                 <h5 class="">{{ content_item.menu_name }}</h5>
@@ -42,7 +42,7 @@
           </div><!-- /.large-4.columns -->
 
 
-          <div class="small-12 medium-4 columns">
+          <div class="medium-4 columns">
             {% for network_item in site.data.network %}
               {% if forloop.first == true %}
                 <h5 class="">{{ network_item.menu_name }}</h5>
