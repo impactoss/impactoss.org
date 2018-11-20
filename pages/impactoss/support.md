@@ -1,6 +1,6 @@
 ---
 title: Support for IMPACT OSS
-teaser: "Check out the IMPACT OSS documentation and learn about the services we offer to support IMPACT OSS"
+teaser: "Explore the documentation and learn about the services we offer to support IMPACT OSS"
 permalink: "/impactoss/support/"
 header_image: header-pattern.jpg
 header_title: Support
@@ -17,13 +17,13 @@ We have developed the following resources to support the installation and operat
       Installation Guide
     </h4>
     <p>
-      Detailed instructions on how to configure and install all IMPACT OSS components, including hosting recommendations. You can also customise your own version or help us improve our version on <a title="GitHub" href="https://github.com/impactoss/impactoss-installation-guide" target="\_blank">GitHub</a>.
+      Detailed instructions on how to configure and install all IMPACT OSS components, including hosting recommendations. You can also customise your own version or help us improve our version on <a title="GitHub" href="https://github.com/impactoss/impactoss-installation-guide" target="_blank">GitHub</a>.
     </p>
     <p>
       <strong>
-        <a title="Installation Guide" href="https://install-guide.impactoss.org" target="\_blank">Installation Guide</a>
+        <a title="Installation Guide" href="https://install-guide.impactoss.org" target="_blank">Installation Guide</a>
       </strong>
-      (<a title="Download PDF" href="https://legacy.gitbook.com/book/impactoss/impact-oss-installation-guide/details" target="\_blank">PDF</a>)
+      (<a title="Download PDF" href="https://legacy.gitbook.com/book/impactoss/impact-oss-installation-guide/details" target="_blank">PDF</a>)
     </p>
   </div>
   <div class="large-4 medium-6 columns">
@@ -31,13 +31,13 @@ We have developed the following resources to support the installation and operat
       Admin Quick Start Guide
     </h4>
     <p>
-      A collection of detailed step-by-step instructions for a selection of use cases created for website administrators. You can also customise your own version or help us improve our version on <a title="GitHub" href="https://github.com/impactoss/impactoss-admin-quick-start-guide" target="\_blank">GitHub</a>.
+      A collection of detailed step-by-step instructions for a selection of use cases created for website administrators. You can also customise your own version or help us improve our version on <a title="GitHub" href="https://github.com/impactoss/impactoss-admin-quick-start-guide" target="_blank">GitHub</a>.
     </p>
     <p>
       <strong>
-        <a title="Admin Quick Start Guide" href="https://quick-start.impactoss.org" target="\_blank">Admin Quick Start Guide</a>
+        <a title="Admin Quick Start Guide" href="https://quick-start.impactoss.org" target="_blank">Admin Quick Start Guide</a>
       </strong>    
-      (<a title="Download PDF" href="https://legacy.gitbook.com/book/impactoss/impact-oss-admin-quick-start-guide/details" target="\_blank">PDF</a>)
+      (<a title="Download PDF" href="https://legacy.gitbook.com/book/impactoss/impact-oss-admin-quick-start-guide/details" target="_blank">PDF</a>)
     </p>
   </div>
   <div class="large-4 medium-6 columns">
@@ -45,13 +45,13 @@ We have developed the following resources to support the installation and operat
       User Manual
     </h4>
     <p>
-      A comprehensive User Manual covering all common use cases created for website administrators and public users alike. You can also customise your own version or help us improve our version on <a title="GitHub" href="https://github.com/impactoss/impactoss-user-manual" target="\_blank">GitHub</a>.
+      A comprehensive User Manual covering all common use cases created for website administrators and public users alike. You can also customise your own version or help us improve our version on <a title="GitHub" href="https://github.com/impactoss/impactoss-user-manual" target="_blank">GitHub</a>.
     </p>
     <p>
       <strong>
-        <a title="User Manual" href="https://user-manual.impactoss.org" target="\_blank">User Manual</a>
+        <a title="User Manual" href="https://user-manual.impactoss.org" target="_blank">User Manual</a>
       </strong>    
-      (<a title="Download PDF" href="https://legacy.gitbook.com/book/impactoss/impactoss-user-manual/details" target="\_blank">PDF</a>)
+      (<a title="Download PDF" href="https://legacy.gitbook.com/book/impactoss/impactoss-user-manual/details" target="_blank">PDF</a>)
     </p>
   </div>
 </div>

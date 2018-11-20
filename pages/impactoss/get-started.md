@@ -1,7 +1,7 @@
 ---
 title: Get started with IMPACT OSS
 meta_title:
-teaser: "Learn about your options to get started using IMPACT OSS"
+teaser: "Learn about your options to start using IMPACT OSS"
 permalink: "/impactoss/get-started/"
 header_image: header-pattern.jpg
 header_title: Get started with IMPACT OSS
@@ -47,11 +47,11 @@ Regardless, the installation requires the following steps
 3. Configure client
 4. Install client on suitable hosting provider
 
-##### Documentation
+#### Documentation
 
 We have developed the following resource to support the installation of IMPACT OSS:
 
-* **[Installation Guide](https://install-guide.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-installation-guide))
+**[Installation Guide](https://install-guide.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-installation-guide))
 
 ## Operation
 
@@ -65,12 +65,13 @@ In addition, it is recommended to
 
 * Update client and server applications sporadically when new versions become available
 
-##### Documentation
+#### Documentation
 
 We have developed the following resources to support the operation of IMPACT OSS:
 
-* **[Admin Quick Start Guide](https://quick-start.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-admin-quick-start-guide))
-* **[User Manual](https://user-manual.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-user-manual))
+**[Admin Quick Start Guide](https://quick-start.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-admin-quick-start-guide))
+
+**[User Manual](https://user-manual.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-user-manual))
 
 ---
 
