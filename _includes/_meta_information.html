@@ -21,12 +21,14 @@
 			</p>
 
 			{% if page.collection == "posts" %}
-			<div id="post-nav">
+			<div id="post-nav" class="row">
 				{% if page.previous.url %}
-				<a class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
 				{% endif %}
+				<div class="medium-6 columns"><a class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}{{page.previous.url}}">&laquo; {{page.previous.title}}</a></div><!-- /.small-4.columns -->
 				{% if page.next.url %}
-				<div class="text-right"><a class="button small radius next" href="{{ site.url }}{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div>
+				<div class="medium-6 columns text-right"><a class="button small radius next" href="{{ site.url }}{{ site.baseurl }}{{page.next.url}}">{{page.next.title}} &raquo;</a></div><!-- /.small-4.columns -->
+				{% else %}
+				<div class="medium-6 columns text-right"></div><!-- /.small-4.columns -->
 				{% endif %}
 			</div>
 			{% endif %}
