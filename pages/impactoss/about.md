@@ -25,13 +25,15 @@ All project code and related documentation are released under the [MIT Open Sour
 
 # Usage options
 
+Join Samoa and New Zealand in using and improving IMPACT OSS. You can chose between  
+
 <div class="row">
   <div class="large-6 columns">
     <h4>
       Independent installation
     </h4>
     <p>
-      IMPACT OSS can be installed independently by any person or organisation using suitable hosting providers. See <a title="Get started with IMPACT OSS" href="{{site.baseurl}}/impactoss/get-started/">Get started with IMPACT OSS</a> for further information and installation instructions.
+      IMPACT OSS can be installed independently and for free by any person or organisation using suitable hosting providers. See <a title="Get started with IMPACT OSS" href="{{site.baseurl}}/impactoss/get-started/">Get started with IMPACT OSS</a> for further information and installation instructions.
     </p>
   </div>
   <div class="large-6 columns">
@@ -39,7 +41,7 @@ All project code and related documentation are released under the [MIT Open Sour
       Managed installation
     </h4>
     <p>
-      Alternatively, you can hire the Trust to install and host IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
+      Alternatively, you can engage the Trust's services for installing and hosting IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
     </p>
   </div>
 </div>
@@ -110,22 +112,28 @@ All project code and related documentation are released under the [MIT Open Sour
 
 #### Demo sites
 
-# Try all the IMPACT OSS functionality
+# Try IMPACT OSS online
 
 ## Standard configuration
 
-Check out our demo installation at **[demo.impactoss.org](https://demo.impactoss.org)**. You can sign in and explore the admin features by using email `demo.manager@impactoss.org` and password `manager`.
+Please try out IMPACT OSS and all its features using our online demo. You can explore the admin functionality by signing in using `demo.manager@impactoss.org` (email) and `manager` (password). Please refer to our <strong><a target="_blank" href="https://user-manual.impactoss.org" title="User Manual">User Manual</a></strong> if you need help.
+
+<a class="button medium radius" target="_blank" href="https://demo.impactoss.org">Launch demo</a>
+
 
 ## Other configurations for Small States
 
 Further demo installations, provided by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html) and in particular aimed at Small States, are available at:
 
-* **[demo-rights.impactoss.org](https://demo-rights.impactoss.org)**: Human Rights implementation only, no SDGs
-* **[demo-sdgs.impactoss.org](https://demo-sdgs.impactoss.org)**: Human Rights and SDG implementation
+<strong><a target="_blank" href="https://demo-rights.impactoss.org">demo-rights.impactoss.org</a></strong> (Human Rights implementation only, no SDGs)
+
+<strong><a target="_blank" href="https://demo-sdgs.impactoss.org">demo-sdgs.impactoss.org</a></strong> (Human Rights and SDG implementation)
 
 ## Personal demo
 
-We will happily give you an introduction and **schedule a personal demo** with you. Just get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).
+We will happily give you an introduction and schedule a personal demo with you.
+
+**Just get in touch at [contact@impactoss.org](mailto:contact@impactoss.org)**
 
 ---
 
@@ -139,7 +147,7 @@ We are committed to continue improving IMPACT OSS. In particular, we are current
 
 Ongoing developments by third parties that we are looking to integrate with IMPACT OSS.
 
-* **Accessibility**: as part of the enhancements for its National Plan of Action, the NZ Human Rights Commission has provided funding to make IMPACT OSS accessible and compliant with WCAG 2.0. Development is still ongoing and expected to be made available to all installations of IMPACT OSS in December 2018.
+* **Accessibility**: as part of the enhancements for its National Plan of Action, the NZ Human Rights Commission has provided funding to make IMPACT OSS accessible and compliant with <a href="https://www.w3.org/TR/WCAG20/" target="_blank" title="WCAG 2.0">WCAG 2.0</a>. Development is still ongoing and expected to be made available to all installations of IMPACT OSS in December 2018.
 
 ## Other planned enhancements
 
@@ -156,7 +164,9 @@ Enhancements we are planning but that subject to funding or third-party developm
 * **Multi-language support**: introduce support for multiple languages
 * **User invitation**: allow inviting new users from within the application
 
-If you would like to **discuss or contribute** to any of the above features or **have ideas for any other features**, please get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).
+## Your ideas
+
+If you would like to discuss or contribute to any of the above features or have ideas for any other features, please get in touch at [contact@impactoss.org](mailto:contact@impactoss.org) or learn more about how you can support us at [Get involved]({{ site.baseurl }}/get-involved/).
 
 ---
 
@@ -166,7 +176,7 @@ If you would like to **discuss or contribute** to any of the above features or *
 
 The source code for both server and client is open source and freely available under the MIT license. Anyone is therefore permitted to **use, modify and distribute the source code free of charge**.
 
-However, we strongly encourage users to make any significant enhancements available to all other users by contributing them back to the core open source project (see [Get involved]({{site.baseurl}}/impactoss/get-involved/) for details).
+However, we strongly encourage users to make any relevant enhancements available to all other users by contributing them back to the core open source project (see [Get involved]({{site.baseurl}}/impactoss/get-involved/) for details).
 
 ---
 
@@ -174,7 +184,7 @@ However, we strongly encourage users to make any significant enhancements availa
 
 #### Design and Development
 
-IMPACT OSS was designed and developed by human rights consultant Ashley Bowe and data visualisation agency [Unfold Data](http://unfolddata.com), led by Edith Woischin and Timo Franz, with the help of human rights specialist Moana Eruera.
+IMPACT OSS was designed and developed by human rights consultant Ashley Bowe and data visualisation agency [Unfold Data (formerly dumpark)](http://unfolddata.com), led by Edith Woischin and Timo Franz, with the help of human rights specialist Moana Eruera.
 
 For full list of source code contributors, please see [contributors (client)](https://github.com/impactoss/impactoss-client/blob/master/CONTRIBUTORS.md) and [contributors (server)](https://github.com/impactoss/impactoss-server/blob/master/CONTRIBUTORS.md).
 
