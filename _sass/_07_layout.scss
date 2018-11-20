@@ -243,14 +243,13 @@ body.video cite { color: #fff; }
     color: $grey-7;
 }
 
-#page-meta .button {
+#page-meta a.button {
     background: $grey-6;
     border: 0;
-}
-#page-meta .button {
     color: #fff;
 }
-#page-meta .button:hover {
+#page-meta a.button:hover {
+    color: #fff;
     background: $grey-7;
 }
 .meta-info p {
@@ -264,6 +263,19 @@ body.video cite { color: #fff; }
   .meta-info a:hover {
     text-decoration: none;
     color: $secondary-color;
+  }
+
+  /* Pagination
+  ------------------------------------------------------------------- */
+
+  #pagination a.button {
+    background: $grey-6;
+    border: 0;
+    color: #fff;
+  }
+  #pagination a.button:hover {
+    color: #fff;
+    background: $grey-7;
   }
 
 
