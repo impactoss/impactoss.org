@@ -44,7 +44,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Moana is a human rights specialist with extensive experience ...
     </p>
     <p>
-      <a target="\_blank" href="https://www.linkedin.com/in/moana-john-eruera-0768946">
+      <a target="_blank" href="https://www.linkedin.com/in/moana-john-eruera-0768946">
         LinkedIn
       </a>
     </p>
@@ -63,7 +63,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Ashley is a human rights specialist with extensive experience ...      
     </p>
     <p>
-      <a target="\_blank" href="https://www.linkedin.com/in/ashley-bowe-a4716019">
+      <a target="_blank" href="https://www.linkedin.com/in/ashley-bowe-a4716019">
         LinkedIn
       </a>
     </p>
@@ -82,7 +82,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Edith is an interaction and information designer
     </p>
     <p>
-      <a target="\_blank" href="https://www.linkedin.com/in/edith-woischin-3127b865">
+      <a target="_blank" href="https://www.linkedin.com/in/edith-woischin-3127b865">
         LinkedIn
       </a>
     </p>
@@ -98,10 +98,10 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Founding Trustee
     </h6>
     <p>
-      Timo is a software developer and information designer
+      Timo is a software developer and information designer and is a director at <a href="http://unfolddata.com" target="_blank" tile="Unfold Data (formerly dumpark)">Unfold Data (formerly dumpark)</a>
     </p>
     <p>
-      <a target="\_blank" href="https://www.linkedin.com/in/tmfrnz">
+      <a target="_blank" href="https://www.linkedin.com/in/tmfrnz">
         LinkedIn
       </a>
     </p>
@@ -147,7 +147,7 @@ The [Trust Deed](({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)) which e
       The Trust and URG signed an MOU in October 2017 in recognition of their shared aim to advance the implementation agenda through the use of technology. Through the partnership URG leverages its networks and influence within Geneva and the human rights sector to test, develop, and generate interest and funds for the improvement and application of IMPACT OSS.
     </p>
     <p>
-      <a target="\_blank" href="https://universal-rights.org">universal-rights.org</a>
+      <a target="_blank" href="https://universal-rights.org">universal-rights.org</a>
     </p>
   </div>
 </div>
