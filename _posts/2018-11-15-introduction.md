@@ -45,4 +45,4 @@ IMPACT OSS is an open source tool meaning it is freely available for use by any 
 
 ## Get in touch
 
-Universal Rights Group is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. A global launch event is scheduled in Geneva for later this year and in the meantime more information can be found at www.impactoss.org or the Trust can be contacted via [info@impactoss.org](mailto:info@impactoss.org).
+Universal Rights Group is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. A global launch event is scheduled in Geneva for later this year and in the meantime more information can be found at [impactoss.org](https://www.impactoss.org) or the Trust can be contacted via [info@impactoss.org](mailto:info@impactoss.org).
