@@ -107,17 +107,6 @@ prose:
         field:
           element: textarea
           label: "Teaser/lead paragraph (below title)"
-      - name: layout
-        field:
-          element: select
-          label: Layout
-          placeholder: Select page layout
-          value: page-fullwidth
-          options:
-            - name: "Full width page"
-              value: page-fullwidth
-            - name: "Narrow page"
-              value: page
       - name: image_filename
         field:
           element: text
@@ -171,17 +160,6 @@ prose:
         field:
           element: textarea
           label: "Teaser/lead paragraph (below title)"
-      - name: layout
-        field:
-          element: select
-          label: Layout
-          placeholder: Select page layout
-          value: page-fullwidth
-          options:
-            - name: "Full width page"
-              value: page-fullwidth
-            - name: "Narrow page"
-              value: page
       - name: image_filename
         field:
           element: text
