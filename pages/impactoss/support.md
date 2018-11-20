@@ -62,7 +62,7 @@ Funding for the developing these resources was provided by the [Permanent Missio
 
 ---
 
-# Impact OSS Trust Services
+# Our Services
 
 We offer a variety of support services at competitive rates to help you install and operate your own version of IMPACT OSS:
 

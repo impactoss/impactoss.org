@@ -1,37 +1,29 @@
 ---
 title: Get involved
-teaser: "Support the Impact Open Source Software Trust"
+teaser: "How you can support the Trust"
 permalink: "/get-involved/"
 header_image: header-pattern.jpg
 header_title: Get involved
 ---
 
-## We are looking for long term partners...
+## Join our Board of Trustees
 
-#### Sponsor us
+If you would like to provide your expertise and support our cause, please consider joining our **[Board of Trustees]({{site.baseurl}}/trust/#who-we-are)** and get in touch at [contact@impactoss.org](mailto:contact@impactoss.org).  
 
-#### Feedback, issues
+## Sponsor us
 
-#### Join us
+If you would like to contribute funding to help the Trust to maintain,  develop and support open source software for human rights and sustainable development, please consider becoming a **sponsor** or **strategic partner**. In return, we will acknowledge our supporters on our website, as well as on our outputs and events.
 
-Join our board of trustees or advisory panel
+Please get in touch at [contact@impactoss.org](mailto:contact@impactoss.org) to find out more about our sponsorship programme.
 
-Human rights, legal or technical expertise
+## Become an open source contributor
 
+We are continuously improving IMPACT OSS but we have an ambitious [Roadmap]({{ site.baseurl }}//impactoss/#roadmap) and would love your help to deliver these improvements faster.
 
+#### Software developers
 
----
+If you are a software developer with expertise or interest in [Rails](https://rubyonrails.org) or [JavaScript/React](https://reactjs.org) and if you are seeking to contribute your code to an open source project that wants to make a difference, please do not hesitate to get in touch at [opensource@impactoss.org](mailto:opensource@impactoss.org).
 
-# Contribute to open source project
+#### Users of IMPACT OSS
 
-## Development
-
-You can contribute by
-* developing new features independently on the user’s own code base and later integrating it with the core open source project in coordination with its maintainers, the IMPACT OSS Group, or
-* directly developing new features as part of the core open source project in close collaboration with its maintainers.
-
-Please note that for both contribution options it would be required to contract the services of the IMPACT OSS Group for the coordination efforts or otherwise sponsor the IMPACT OSS Group for the continued maintenance efforts.
-
-## Programming knowledge
-
-For the server, knowledge of Ruby-on-Rails is required and for the client JavaScript, more specifically ReactJS.
+If you are an organisation that is already using or planning to use a custom version of IMPACT OSS and that has or will make relevant enhancements, please consider to make them available to all other users by contributing them back to the core open source project. Please get in touch at [opensource@impactoss.org](mailto:opensource@impactoss.org) to find out more.

@@ -126,7 +126,7 @@ All technologies the Trust is associated with seek to advance the fundamental pr
 
 ## Consensual decision making
 
-The [Trust Deed](({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)) which establishes the Impact Open Source Software Trust sets out a decision making process rooted firmly in consensual decision making. Equality is also at the heart of the Trust constitution which seeks to establish a gender balance on the Board at any time. We are therefore always seeking applications from interested parties - please email your CV and expression of interest to [contact@impactoss.org](mailto:contact@impactoss.org) to be considered.  
+The [Trust Deed](({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)) which establishes the Impact Open Source Software Trust sets out a decision making process rooted firmly in consensual decision making.   
 
 ---
 
