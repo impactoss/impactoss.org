@@ -41,7 +41,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Chairperson, Founding Trustee
     </h6>
     <p>
-      Moana is a human rights specialist with extensive experience ...
+      Moana is a senior human rights specialist with a focus on national human rights implementation. When working for the <a href="https://hrc.co.nz" target="_blank" tile="NZ Human Rights Commission">NZ Human Rights Commission</a> he was responsible for the NZ National Plan of Action that can be regarded as a conceptual ancestor of IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/moana-john-eruera-0768946">
@@ -60,7 +60,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Secretary, Founding Trustee
     </h6>
     <p>
-      Ashley is a human rights specialist with extensive experience ...      
+      Ashley is a human rights defender with a demonstrated history of working in different continents, countries and cultural contexts. As a Human Rights Officer for <a href="https://www.ohchr.org/EN/pages/home.aspx" target="_blank" tile="UN Human Rights">UN Human Rights</a> in Samoa he co-designed Sadata that would later become IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/ashley-bowe-a4716019">
@@ -79,7 +79,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Treasurer, Founding Trustee
     </h6>
     <p>
-      Edith is an interaction and information designer
+      As an interaction and information designer, Edith looks after all the design outputs of the Trust. She is a director and the lead designer of <a href="http://unfolddata.com" target="_blank" tile="Unfold Data">Unfold Data</a> (formerly dumpark) and designed the User Interface of IMPACT OSS as well as the custom themes for its Samoan and New Zealand installations.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/edith-woischin-3127b865">
@@ -98,7 +98,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Founding Trustee
     </h6>
     <p>
-      Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer at data visualisation agency <a href="http://unfolddata.com" target="_blank" tile="Unfold Data (formerly dumpark)">Unfold Data (formerly dumpark)</a> he has contributed significantly to the concept and code of IMPACT OSS.
+      Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer of <a href="http://unfolddata.com" target="_blank" tile="Unfold Data">Unfold Data</a> he has contributed significantly to the concept and development of IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/tmfrnz">
