@@ -73,6 +73,13 @@ We have developed the following resources to support the operation of IMPACT OSS
 
 **[User Manual](https://user-manual.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-user-manual))
 
+## Customisation
+
+You can further customise the appearance and behaviour of IMPACT OSS to suit your specific needs. For the server you will require knowledge of [Rails](https://rubyonrails.org) and for the client JavaScript, more specifically [React](https://reactjs.org).
+
+We encourage users to make any significant enhancements available to all other users by contributing them back to the core open source project (also see [Get involved]({{site.baseurl}}/impactoss/get-involved/#become-an-open-source-contributor)).
+
+
 ---
 
 If you need help with any of the above or custom development of new and existing features, please have a look at [Support for IMPACT OSS]({{ site.baseurl }}/impactoss/support) for the services we offer or just write to [info@impactoss.org](mailto:info@impactoss.org)

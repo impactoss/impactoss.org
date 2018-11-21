@@ -7,7 +7,7 @@ published: true
 author: ashbowe
 video: 262605219
 video_source: vimeo
-image_filename: 
+image_filename:
 image_thumb: 'video_teaser.png'
 ---
 
@@ -25,7 +25,7 @@ Little attention has yet been given to what tools can be developed to make them 
 
 ## A tool to help
 
-IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was borne out of the Pacific and designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges.
+IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was born out of the Pacific and designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges.
 
 The application is intended to be used by individual NMRIFs at a country level (or an individual Ministry or NHRI prior to the establishment of such an entity) and has a variety of features which allow it to manage all human rights recommendations, observations and obligations and the SDGs. IMPACT OSS uses an advanced, but user-friendly, clustering process and helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities. This means data is only entered only once but is tracked in all relevant areas, eliminating all duplication of efforts.
 
@@ -41,8 +41,8 @@ Using IMPACT OSS effectively means the person responsible for the periodic repor
 
 ## Open source
 
-IMPACT OSS is an open source tool meaning it is freely available for use by any state. Support for deploying the tool, managed hosting and training is all offered by the Impact OSS Trust. Or developer and user guides are available for states wishing to use their own expertise.
+IMPACT OSS is an open source tool meaning it is freely available for use by any state. Support for deploying the tool, managed hosting and training is all offered by the Impact OSS Trust. Or installation and user guides are available for states wishing to use their own expertise. (See [Support for IMPACT OSS]({{site.baseurl}}/impactoss/support/) for documentation and support services).
 
 ## Get in touch
 
-Universal Rights Group is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. A global launch event is scheduled in Geneva for later this year and in the meantime more information can be found at www.impactoss.org or the Trust can be contacted via info@impactoss.org
+Universal Rights Group is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. A global launch event is scheduled in Geneva for later this year and in the meantime more information can be found at [impactoss.org](https://www.impactoss.org) or the Trust can be contacted via [info@impactoss.org](mailto:info@impactoss.org).

@@ -10,9 +10,6 @@
 # Title of your website
 title: 'Impact Open Source Software Trust'
 
-# The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'TODO: our slogan'
-
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'We are incorporated as a charitable trust under NZ’s Charitable Trusts Act of 1957 with the objective to advance the enjoyment of human rights and the realisation of the UN SDGs.'
 
@@ -110,17 +107,6 @@ prose:
         field:
           element: textarea
           label: "Teaser/lead paragraph (below title)"
-      - name: layout
-        field:
-          element: select
-          label: Layout
-          placeholder: Select page layout
-          value: page-fullwidth
-          options:
-            - name: "Full width page"
-              value: page-fullwidth
-            - name: "Narrow page"
-              value: page
       - name: image_filename
         field:
           element: text
@@ -174,17 +160,6 @@ prose:
         field:
           element: textarea
           label: "Teaser/lead paragraph (below title)"
-      - name: layout
-        field:
-          element: select
-          label: Layout
-          placeholder: Select page layout
-          value: page-fullwidth
-          options:
-            - name: "Full width page"
-              value: page-fullwidth
-            - name: "Narrow page"
-              value: page
       - name: image_filename
         field:
           element: text

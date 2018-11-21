@@ -1,6 +1,6 @@
 ---
 title: Contact
-teaser: "We love to hear from you"
+teaser: "We would love to hear from you"
 permalink: "/contact/"
 header_title: Contact
 header_image: header-pattern.jpg

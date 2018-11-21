@@ -25,13 +25,15 @@ All project code and related documentation are released under the [MIT Open Sour
 
 # Usage options
 
+Join Samoa and New Zealand in using and improving IMPACT OSS. You can chose between  
+
 <div class="row">
   <div class="large-6 columns">
     <h4>
       Independent installation
     </h4>
     <p>
-      IMPACT OSS can be installed independently by any person or organisation using suitable hosting providers. See <a title="Get started with IMPACT OSS" href="{{site.baseurl}}/impactoss/get-started/">Get started with IMPACT OSS</a> for further information and installation instructions.
+      IMPACT OSS can be installed independently and for free by any person or organisation using suitable hosting providers. See <a title="Get started with IMPACT OSS" href="{{site.baseurl}}/impactoss/get-started/">Get started with IMPACT OSS</a> for further information and installation instructions.
     </p>
   </div>
   <div class="large-6 columns">
@@ -39,7 +41,7 @@ All project code and related documentation are released under the [MIT Open Sour
       Managed installation
     </h4>
     <p>
-      Alternatively, you can hire the Trust to install and host IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
+      Alternatively, you can engage the Trust's services for installing and hosting IMPACT OSS for you. In addition, we offer a variety of other services, including training, support and custom development (see <a title="Support for IMPACT OSS" href="{{site.baseurl}}/impactoss/support/">Support for IMPACT OSS</a> for an overview of services we offer).
     </p>
   </div>
 </div>
@@ -174,7 +176,7 @@ If you would like to discuss or contribute to any of the above features or have 
 
 The source code for both server and client is open source and freely available under the MIT license. Anyone is therefore permitted to **use, modify and distribute the source code free of charge**.
 
-However, we strongly encourage users to make any significant enhancements available to all other users by contributing them back to the core open source project (see [Get involved]({{site.baseurl}}/impactoss/get-involved/) for details).
+However, we strongly encourage users to make any relevant enhancements available to all other users by contributing them back to the core open source project (see [Get involved]({{site.baseurl}}/impactoss/get-involved/) for details).
 
 ---
 
