@@ -25,15 +25,17 @@
 
 
 <nav id="pagination" class="row">
-  <div class="medium-6 columns"><a rel="prev" class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}/blog/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous_posts }}</a></div>
+  <div class="medium-6 columns">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
+    <a rel="prev" class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}/blog/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous_posts }}</a>
     {% else %}
-    <div class="medium-6 columns"><a rel="prev" class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}/blog/page{{ paginator.previous_page }}/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous_posts }}</a></div>
+    <a rel="prev" class="button small radius prev" href="{{ site.url }}{{ site.baseurl }}/blog/page{{ paginator.previous_page }}/" title="{{ site.data.language.previous_posts }}">&laquo; {{ site.data.language.previous_posts }}</a>
     {% endif %}
   {% endif %}
-
+  </div>
+  
   {% if paginator.next_page %}
-  {% endif %}
   <div class="medium-6 columns text-right"><a rel="next" class="button small radius next" href="{{ site.url }}{{ site.baseurl }}/blog/page{{ paginator.next_page }}/" title="{{ site.data.language.next_posts }}">{{ site.data.language.next_posts }} &raquo;</a></div>
+  {% endif %}
 </nav>
