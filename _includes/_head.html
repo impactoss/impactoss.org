@@ -46,8 +46,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="og:image" content="{% if page.image_filename %}{{ site.urlimg }}{{ page.image_filename }}{% else %}{{ site.urlimg }}{{ site.imgSocial }}{% endif %}">
-	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
-
+	<meta property="fb:app_id" content="{{ site.fb_appid }}"/>
 
 	{% if site.socialmedia.twitter %}
 	<!-- Twitter -->
