@@ -2,7 +2,7 @@
 subheadline: Turning the Implementation Agenda into Reality
 title: Introducing IMPACT OSS
 teaser: >-
-  The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition. On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change.
+  The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition.
 published: true
 author: ashbowe
 video: 262605219
@@ -11,17 +11,21 @@ image_filename:
 image_thumb: 'video_teaser.png'
 ---
 
+On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change. <sup>[1](#fn1)</sup>
+
 The emergence of National Mechanisms for Reporting, Implementation and Follow-Up (NMRIF) as opposed to an ad hoc approach to reporting is one of the few areas for optimism. In addressing the High Commissioner at Human Rights Council 34 the NMRIF Group of Friends highlighted the potential of such entities in this regard:
 
 > A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up.
 
+<sup>[2](#fn2)</sup>
+
 ## Challenges
 
-However, NMRIFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 578 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report.
+However, NMRIFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 595 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report.<sup>[3](#fn3)</sup>
 
 Overdue reporting is symptomatic of a lack of implementation planning and coordination and as a state receives additional sets of recommendations, the burden grows and it becomes increasingly difficult to get back on track and stay there. NMRIFs are an excellent vehicle for monitoring and coordinating implementation of human rights but of themselves are not equipped to manage hundreds of overlapping recommendations, all of which require data collection and reporting at different times.
 
-Little attention has yet been given to what tools can be developed to make them even more effective in their work. Paraguay's Simore and New Zealand's Plan of Action are early and commendable efforts. However, until recently no tool existed that comprehensively addressed the reporting burden states face, in particular the issues of reliable regular data collection across multiple ministries and efficiently managing hundreds of overlapping human rights recommendations received at various times (not to mention the SDGs and other national development priorities).
+Little attention has yet been given to what tools can be developed to make them even more effective in their work. Paraguay's [Simore](http://www.mre.gov.py/simoreplus) and New Zealand's first National Plan of Action (now replaced with a [custom version of IMPACT OSS](http://npa.hrc.co.nz/)) are early and commendable efforts. However, until recently no tool existed that comprehensively addressed the reporting burden states face, in particular the issues of reliable regular data collection across multiple ministries and efficiently managing hundreds of overlapping human rights recommendations received at various times (not to mention the SDGs and other national development priorities).
 
 ## A tool to help
 
@@ -45,4 +49,15 @@ IMPACT OSS is an open source tool meaning it is freely available for use by any 
 
 ## Get in touch
 
-Universal Rights Group is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. A global launch event is scheduled in Geneva for later this year and in the meantime more information can be found at [impactoss.org](https://www.impactoss.org) or the Trust can be contacted via [info@impactoss.org](mailto:info@impactoss.org).
+[Universal Rights Group](https://universal-rights.org) is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. We are looking to officially present IMPACT OSS in Geneva for later this year and in the meantime more information can be found here at [impactoss.org](https://www.impactoss.org) or the Trust can be contacted via [contact@impactoss.org](mailto:contact@impactoss.org).
+
+---
+
+**Footnotes**
+
+<a name="fn1">1</a>: [http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session37/Documents/CN_UDHR70_VDPA25.docx](http://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session37/Documents/CN_UDHR70_VDPA25.docx)
+<br>
+<a name="fn2">2</a>: [https://www.universal-rights.org/wp-content/uploads/2017/03/GoF-NMRFs-Statement.pdf](https://www.universal-rights.org/wp-content/uploads/2017/03/GoF-NMRFs-Statement.pdf)
+<br>
+<a name="fn3">3</a>: [http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/LateReporting.aspx](http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/LateReporting.aspx)- last checked 21/11/2018
+<br>
