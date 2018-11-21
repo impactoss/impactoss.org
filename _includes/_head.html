@@ -45,7 +45,7 @@
 	<meta property="og:locale" content="{% if site.og_locale == nil %}en_EN{% else %}{{ site.og_locale }}{% endif %}">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="{{ site.title }}">
-	{% if page.image_filename %}<meta property="og:image" content="{{ site.urlimg }}{{ page.image_filename }}">{% endif %}
+	<meta property="og:image" content="{% if page.image_filename %}{{ site.urlimg }}{{ page.image_filename }}{% else %}{{ site.urlimg }}{{ site.imgSocial }}{% endif %}">
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
 
@@ -56,7 +56,7 @@
 	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:title" content="{{ title }}">
 	<meta name="twitter:description" content="{{ description }}">
-	{% if page.image_filename %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image_filename }}">{% endif %}
+	<meta name="twitter:image" content="{% if page.image_filename %}{{ site.urlimg }}{{ page.image_filename }}{% else %}{{ site.urlimg }}{{ site.imgSocial }}{% endif %}">
 	{% endif %}
 
 	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">
