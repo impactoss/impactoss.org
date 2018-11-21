@@ -3,7 +3,7 @@ title: The Impact Open Source Software Trust
 meta_title:
 permalink: "/trust/"
 header_image: header-pattern.jpg
-teaser: "To advance global enjoyment of human rights and the realisation of the Sustainable Development Goals through open source technologies."
+lead: "To advance global enjoyment of human rights and the realisation of the Sustainable Development Goals through open source technologies."
 header_title: The Impact Open Source Software Trust
 ---
 
@@ -144,7 +144,7 @@ The [Trust Deed](({{ site.baseurl }}/resources/ImpactOSS_TrustDeed.pdf)) which e
       Universal Rights Group
     </h4>
     <p>
-      The Trust and URG signed an MOU in October 2017 in recognition of their shared aim to advance the implementation agenda through the use of technology. Through the partnership URG leverages its networks and influence within Geneva and the human rights sector to test, develop, and generate interest and funds for the improvement and application of IMPACT OSS.
+      The Trust and URG signed an MOU in October 2017 in recognition of their shared aim to advance the implementation agenda through the use of technology. Through the partnership, URG leverages its networks and influence within Geneva and the human rights sector to test, develop, and generate interest and funds for the improvement and application of IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://universal-rights.org">universal-rights.org</a>

@@ -1,6 +1,6 @@
 ---
 title: Get involved
-teaser: "How you can support the Trust"
+lead: "How you can support the Trust"
 permalink: "/get-involved/"
 header_image: header-pattern.jpg
 header_title: Get involved
