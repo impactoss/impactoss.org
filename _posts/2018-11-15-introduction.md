@@ -2,7 +2,7 @@
 subheadline: Turning the Implementation Agenda into Reality
 title: Introducing IMPACT OSS
 teaser: >-
-  IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges. It helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities
+  IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges. It helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities.
 published: true
 author: ashbowe
 video: 262605219
