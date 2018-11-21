@@ -1,6 +1,6 @@
 ---
 title: Support for IMPACT OSS
-teaser: "Explore the documentation and learn about the services we offer to support IMPACT OSS"
+lead: "Explore the documentation and learn about the services we offer to support IMPACT OSS"
 permalink: "/impactoss/support/"
 header_image: header-pattern.jpg
 header_title: Support

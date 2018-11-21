@@ -1,7 +1,7 @@
 ---
 title: Get started with IMPACT OSS
 meta_title:
-teaser: "Learn about your options to start using IMPACT OSS"
+lead: "Learn about your options to start using IMPACT OSS"
 permalink: "/impactoss/get-started/"
 header_image: header-pattern.jpg
 header_title: Get started with IMPACT OSS

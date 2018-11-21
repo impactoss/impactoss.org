@@ -2,7 +2,7 @@
 subheadline: Turning the Implementation Agenda into Reality
 title: Introducing IMPACT OSS
 teaser: >-
-  The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition.
+  IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges. It helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities
 published: true
 author: ashbowe
 video: 262605219
@@ -11,17 +11,17 @@ image_filename:
 image_thumb: 'video_teaser.png'
 ---
 
-On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change. <sup>[1](#fn1)</sup>
+<p class="lead">
+The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition. On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change. <sup><a href="#fn1">1</a></sup>
+</p>
 
 The emergence of National Mechanisms for Reporting, Implementation and Follow-Up (NMRIF) as opposed to an ad hoc approach to reporting is one of the few areas for optimism. In addressing the High Commissioner at Human Rights Council 34 the NMRIF Group of Friends highlighted the potential of such entities in this regard:
 
-> A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up.
-
-<sup>[2](#fn2)</sup>
+> A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up. <sup>[2](#fn2)</sup>
 
 ## Challenges
 
-However, NMRIFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 595 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report.<sup>[3](#fn3)</sup>
+However, NMRIFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 595 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report. <sup>[3](#fn3)</sup>
 
 Overdue reporting is symptomatic of a lack of implementation planning and coordination and as a state receives additional sets of recommendations, the burden grows and it becomes increasingly difficult to get back on track and stay there. NMRIFs are an excellent vehicle for monitoring and coordinating implementation of human rights but of themselves are not equipped to manage hundreds of overlapping recommendations, all of which require data collection and reporting at different times.
 
@@ -59,5 +59,5 @@ IMPACT OSS is an open source tool meaning it is freely available for use by any 
 <br>
 <a name="fn2">2</a>: [https://www.universal-rights.org/wp-content/uploads/2017/03/GoF-NMRFs-Statement.pdf](https://www.universal-rights.org/wp-content/uploads/2017/03/GoF-NMRFs-Statement.pdf)
 <br>
-<a name="fn3">3</a>: [http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/LateReporting.aspx](http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/LateReporting.aspx)- last checked 21/11/2018
+<a name="fn3">3</a>: [http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/LateReporting.aspx](http://tbinternet.ohchr.org/_layouts/TreatyBodyExternal/LateReporting.aspx) - last checked: 21/11/2018
 <br>

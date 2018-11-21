@@ -107,7 +107,7 @@ prose:
       - name: teaser
         field:
           element: textarea
-          label: "Teaser/lead paragraph (below title)"
+          label: "Teaser text shown on preview"
       - name: image_filename
         field:
           element: text
@@ -157,10 +157,10 @@ prose:
         field:
           element: text
           label: "Subheadline (above title)"
-      - name: teaser
+      - name: lead
         field:
           element: textarea
-          label: "Teaser/lead paragraph (below title)"
+          label: "Lead paragraph (below title)"
       - name: image_filename
         field:
           element: text

@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header_image: home-2.png
-teaser: Impact Open Source Software Trust – open source technologies to improve realisation and transparency of human rights and the SDGs
+lead: Impact Open Source Software Trust – open source technologies to improve realisation and transparency of human rights and the SDGs
 widget1:
   title: "Who we are"
   button: "About us"

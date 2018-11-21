@@ -1,6 +1,5 @@
 ---
 title: Website credits
-teaser:
 published: true
 permalink: "/credits/"
 header_image: header-pattern.jpg
