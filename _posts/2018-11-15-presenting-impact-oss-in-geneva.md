@@ -1,6 +1,6 @@
 ---
-title: "Presenting IMPACT OSS in Geneva, 26/11/2018"
-subheadline: "Interactive panel discussion"
+title: "Presenting IMPACT OSS in Geneva"
+subheadline: "Interactive panel discussion, 26/11/2018"
 teaser: >-
   The Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group have invited us to give a demonstration of IMPACT OSS at the "Working Smarter for Human Rights: Are Digital Tools the Way Forward?" interactive panel
 author: tmfrnz
