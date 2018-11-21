@@ -41,7 +41,7 @@ urlimg:  'https://impactoss.github.io/impactoss-org/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
-imgSocial: "socialmedia.png"
+imgSocial: "socialimage.png"
 
 # Gems
 gems:
