@@ -1,9 +1,15 @@
 ---
-title: Launch confirmed
-teaser: Excited to announce that the launch has been confirmed
+title: "Presenting IMPACT OSS in Geneva, 26/11/2018"
+subheadline: "Interactive panel discussion"
+teaser: >-
+  The Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group have invited us to give a demonstration of IMPACT OSS at the "Working Smarter for Human Rights: Are Digital Tools the Way Forward?" interactive panel
+author: tmfrnz
 layout: page-fullwidth
 published: true
 image_filename: 'image-blog-launch.jpg'
 image_thumb: 'image-blog-launch.jpg'
 ---
-Excited to announce that the launch in Geneva has been confirmed
+
+We are very excited for the opportunity to present IMPACT OSS alongside [SIMORE](http://www.mre.gov.py/simoreplus) and the [Girls Rights Platform](https://www.girlsrightsplatform.org/) at the "Working Smarter for Human Rights: Are Digital Tools the Way Forward?" interactive panel in Geneva on Monday, 26 November 2018.
+
+The event is organised by the Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group, and look at how digital tools can help States, particularly Small States, more efficiently and effectively promote human rights and meet their human rights obligations and commitments.
