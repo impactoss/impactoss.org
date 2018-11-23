@@ -56,6 +56,7 @@ Using [IMPACT OSS](https://vimeo.com/262605219) effectively means the person res
 [Universal Rights Group](https://universal-rights.org) is an official partner of [IMPACT OSS](https://vimeo.com/262605219), which has also received support from the Government of Singapore. More information can be found here at [impactoss.org](https://www.impactoss.org) or the Trust can be contacted via [contact@impactoss.org](mailto:contact@impactoss.org).
 
 _The Impact Open Source Software Trust is one of the keynote speakers at the event: ‘Working Smarter for Human Rights: Are Digital Tools the Way Forward?’, Monday 26 November 2018, 10am-11.30am, Restaurant Vieux-Bois, Salle Dunant, Geneva_ <br>
+
 [Event details](https://www.universal-rights.org/events-detail/working-smarter-for-human-rights-are-digital-tools-the-way-forward/) 
 
 ---
