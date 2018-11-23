@@ -15,3 +15,5 @@ image_thumb: 'image-blog-launch.jpg'
 We are very excited for the opportunity to present IMPACT OSS alongside [SIMORE](http://www.mre.gov.py/simoreplus) and the [Girls Rights Platform](https://www.girlsrightsplatform.org/) at the "Working Smarter for Human Rights: Are Digital Tools the Way Forward?" interactive panel in Geneva on Monday, 26 November 2018.
 
 The event is organised by the Permanent Mission of Singapore and the Forum of Small States, in cooperation with the Universal Rights Group, and will look at how digital tools can help States, particularly Small States, more efficiently and effectively promote human rights and meet their human rights obligations and commitments.
+
+[Event details](https://www.universal-rights.org/events-detail/working-smarter-for-human-rights-are-digital-tools-the-way-forward/) 
