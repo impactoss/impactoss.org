@@ -19,7 +19,7 @@ hide_title: false
 The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition. On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change. <sup><a href="#fn1">1</a></sup>
 </p>
 
-The emergence of National Mechanisms for Implementation, Reporting and Follow-Up (NMRIFs) - as opposed to an ad hoc approach to reporting - is one of the few areas for optimism. In addressing the then High Commissioner at Human Rights Council 34 the NMIRF Group of Friends highlighted the potential of such entities in this regard:
+The emergence of National Mechanisms for Implementation, Reporting and Follow-Up (NMIRFs) - as opposed to an ad hoc approach to reporting - is one of the few areas for optimism. In addressing the then High Commissioner at Human Rights Council 34 the NMIRF Group of Friends highlighted the potential of such entities in this regard:
 
 > A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up. <sup>[2](#fn2)</sup>
 
