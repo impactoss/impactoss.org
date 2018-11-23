@@ -49,7 +49,7 @@ Using [IMPACT OSS](https://vimeo.com/262605219) effectively means the person res
 
 ## Open source
 
-[IMPACT OSS](https://vimeo.com/262605219) is an open source tool meaning it is freely available for use by any state although resources are required for deploying the tool. For interested states, managed hosting and training is all offered by the Impact Open Source Software Trust. Developer and user guides are available for states wishing to use their own expertise.(See [Support for IMPACT OSS]({{site.baseurl}}/impactoss/support/) for documentation and support services).
+[IMPACT OSS](https://vimeo.com/262605219) is an open source tool meaning it is freely available for use by any state although resources are required for deploying the tool. For interested states, managed hosting and training is all offered by the Impact Open Source Software Trust. Installation and user guides are available for states wishing to use their own expertise. (See [Support for IMPACT OSS]({{site.baseurl}}/impactoss/support/) for documentation and support services.)
 
 ## Get in touch
 
