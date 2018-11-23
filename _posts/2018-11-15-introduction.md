@@ -2,36 +2,40 @@
 subheadline: Turning the Implementation Agenda into Reality
 title: Introducing IMPACT OSS
 teaser: >-
-  IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges. It helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities.
+  IMPACT OSS (Integrated Management and Planning of Actions - Open Source
+  Software) was designed as a user-friendly tool to address every aspect of the
+  reporting burden and implementation challenges. It helps states build a
+  national implementation plan, identify implementation gaps and link all
+  overlapping recommendations, the SDG targets and other development priorities.
 published: true
 author: ashbowe
 video: 262605219
 video_source: vimeo
-image_filename:
-image_thumb: 'video_teaser.png'
+image_thumb: video_teaser.png
+hide_title: false
 ---
 
 <p class="lead">
 The 'implementation agenda' called for in the lead up to the next review of the Human Rights Council in 2021 is a lofty yet largely unrealized ambition. On February 28 this year, almost three years on from its conception, a High Level Panel convened at the Human Rights Council to discuss how this agenda might work in practice, suggesting that it has yet to achieve meaningful change. <sup><a href="#fn1">1</a></sup>
 </p>
 
-The emergence of National Mechanisms for Reporting, Implementation and Follow-Up (NMRIF) as opposed to an ad hoc approach to reporting is one of the few areas for optimism. In addressing the High Commissioner at Human Rights Council 34 the NMRIF Group of Friends highlighted the potential of such entities in this regard:
+The emergence of National Mechanisms for Implementation, Reporting and Follow-Up (NMRIFs) - as opposed to an ad hoc approach to reporting - is one of the few areas for optimism. In addressing the then High Commissioner at Human Rights Council 34 the NMIRF Group of Friends highlighted the potential of such entities in this regard:
 
 > A key pillar of this emerging 'implementation agenda' is the establishment and/or the strengthening of dedicated national mechanisms responsible for implementation coordination, reporting and follow-up. <sup>[2](#fn2)</sup>
 
 ## Challenges
 
-However, NMRIFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 595 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report. <sup>[3](#fn3)</sup>
+However, NMIRFs still encounter many of the problems arising from an ad hoc approach, notably around data collection and management of multiple recommendations that contribute to the perceived reporting burden, especially among smaller states with fewer resources. Globally there are currently 595 overdue treaty body reports, around half of which are more than 5 years late. Over 80% of states have at least one overdue report. <sup>[3](#fn3)</sup>
 
-Overdue reporting is symptomatic of a lack of implementation planning and coordination and as a state receives additional sets of recommendations, the burden grows and it becomes increasingly difficult to get back on track and stay there. NMRIFs are an excellent vehicle for monitoring and coordinating implementation of human rights but of themselves are not equipped to manage hundreds of overlapping recommendations, all of which require data collection and reporting at different times.
+Overdue reporting is symptomatic of a lack of implementation planning and coordination and as a state receives additional sets of recommendations, the burden grows and it becomes increasingly difficult to get back on track and stay there. NMIRFs are an excellent vehicle for monitoring and coordinating implementation of human rights but of themselves are not equipped to manage hundreds of overlapping recommendations, all of which require data collection and reporting at different times.
 
 Little attention has yet been given to what tools can be developed to make them even more effective in their work. Paraguay's [Simore](http://www.mre.gov.py/simoreplus) and New Zealand's first National Plan of Action (now replaced with a [custom version of IMPACT OSS](http://npa.hrc.co.nz/)) are early and commendable efforts. However, until recently no tool existed that comprehensively addressed the reporting burden states face, in particular the issues of reliable regular data collection across multiple ministries and efficiently managing hundreds of overlapping human rights recommendations received at various times (not to mention the SDGs and other national development priorities).
 
 ## A tool to help
 
-IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was born out of the Pacific and designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges.
+IMPACT OSS (Integrated Management and Planning of Actions - Open Source Software) was born out of the Pacific and designed as a user-friendly tool to address every aspect of the reporting burden and implementation challenges.Designed by human rights defenders in New Zealand and Samoa it is currently being further maintained and improved by the [Impact Open Source Software Trust](https://impactoss.org). 
 
-The application is intended to be used by individual NMRIFs at a country level (or an individual Ministry or NHRI prior to the establishment of such an entity) and has a variety of features which allow it to manage all human rights recommendations, observations and obligations and the SDGs. IMPACT OSS uses an advanced, but user-friendly, clustering process and helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities. This means data is only entered only once but is tracked in all relevant areas, eliminating all duplication of efforts.
+The application is intended to be used by individual NMIRFs at a country level (or an individual Ministry or NHRI prior to the establishment of such an entity) and has a variety of features which allow it to manage all human rights recommendations, observations and obligations and the SDGs. IMPACT OSS uses an advanced, but user-friendly, clustering process and helps states build a national implementation plan, identify implementation gaps and link all overlapping recommendations, the SDG targets and other development priorities. This means data is only entered only once but is tracked in all relevant areas, eliminating all duplication of efforts.
 
 Additionally, IMPACT OSS sends out automated email reminders directly to the individuals across all ministries that hold the information for each specified indicator, removing the need for a person(s) to have to try to obtain that information at a later date. If the implementation update report is not uploaded (a four click process) the process has three inbuilt safe-guards to ensure data collection. These safe-guards are a combination of automated alerts and IMPACT OSS working in conjunction with the NMRIF. Whilst these safeguards are not a guarantee against non-entry of data they amount to significantly more than any other tool currently available and also mean that anyone can see a live record of implementation progress simply by logging on to their national deployment of IMPACT OSS.
 
@@ -45,11 +49,13 @@ Using IMPACT OSS effectively means the person responsible for the periodic repor
 
 ## Open source
 
-IMPACT OSS is an open source tool meaning it is freely available for use by any state. Support for deploying the tool, managed hosting and training is all offered by the Impact OSS Trust. Or installation and user guides are available for states wishing to use their own expertise. (See [Support for IMPACT OSS]({{site.baseurl}}/impactoss/support/) for documentation and support services).
+IMPACT OSS is an open source tool meaning it is freely available for use by any state although resources are required for deploying the tool. For interested states, managed hosting and training is all offered by the Impact Open Source Software Trust. Developer and user guides are available for states wishing to use their own expertise.(See [Support for IMPACT OSS]({{site.baseurl}}/impactoss/support/) for documentation and support services).
 
 ## Get in touch
 
 [Universal Rights Group](https://universal-rights.org) is an official partner of IMPACT OSS, which has also received support from the Government of Singapore. We are looking to officially present IMPACT OSS in Geneva for later this year and in the meantime more information can be found here at [impactoss.org](https://www.impactoss.org) or the Trust can be contacted via [contact@impactoss.org](mailto:contact@impactoss.org).
+
+_The Impact Open Source Software Trust is one of the keynote speakers at the event: ‘Working Smarter for Human Rights: Are Digital Tools the Way Forward?’, Monday 26 November 2018, 10am-11.30am, Restaurant Vieux-Bois, Salle Dunant, Geneva_ [Event details](https://www.universal-rights.org/events-detail/working-smarter-for-human-rights-are-digital-tools-the-way-forward/) 
 
 ---
 
