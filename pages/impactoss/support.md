@@ -55,7 +55,7 @@ We have developed the following resources to support the installation and operat
 
 <br>
 
-Funding for the developing these resources was provided by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).  
+Funding for developing these resources was kindly provided by the [Permanent Mission of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).  
 
 ---
 
