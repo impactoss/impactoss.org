@@ -27,7 +27,7 @@ We, the Impact Open Source Software Trust, would love to help you with all the t
 
 You can also use IMPACT OSS independently and for free but please be aware that some technical knowledge is required.
 
-Please see our **[Installation Guide](https://install-guide.impactoss.org)** for detailed instructions on how to configure and install the [server](https://github.com/impactoss/impactoss-server) (Rails) and [client](https://github.com/impactoss/impactoss-client) (React/JavaScript) applications.
+Please see our **[Installation Guide PDF](https://drive.google.com/file/d/1FdwuewNqddwsjGiLcJKiGg3hBetk68Sq/view?usp=sharing)** for detailed instructions on how to configure and install the [server](https://github.com/impactoss/impactoss-server) (Rails) and [client](https://github.com/impactoss/impactoss-client) (React/JavaScript) applications.
 
 ## Installation
 
@@ -51,7 +51,7 @@ Regardless, the installation requires the following steps
 
 We have developed the following resource to support the installation of IMPACT OSS:
 
-**[Installation Guide](https://install-guide.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-installation-guide))
+**[Installation Guide PDF](https://drive.google.com/file/d/1FdwuewNqddwsjGiLcJKiGg3hBetk68Sq/view?usp=sharing)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-installation-guide))
 
 ## Operation
 
@@ -69,9 +69,9 @@ In addition, it is recommended to
 
 We have developed the following resources to support the operation of IMPACT OSS:
 
-**[Admin Quick Start Guide](https://quick-start.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-admin-quick-start-guide))
+**[Admin Quick Start Guide PDF](https://drive.google.com/file/d/1nV-1_jEdi6u24OXv0I8dPQSSY_VfuL1v/view?usp=sharing)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-admin-quick-start-guide))
 
-**[User Manual](https://user-manual.impactoss.org)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-user-manual))
+**[User Manual PDF](https://drive.google.com/file/d/1qNqtNq1SmgRvvv4SvSSMP3uIZCGTWAD6/view?usp=sharing)** (customise or contribute on [GitHub](https://github.com/impactoss/impactoss-user-manual))
 
 ## Customisation
 
