@@ -21,7 +21,7 @@ We have developed the following resources to support the installation and operat
     </p>
     <p>
       <strong>
-        <a title="Installation Guide PDF" href="https://drive.google.com/file/d/1FdwuewNqddwsjGiLcJKiGg3hBetk68Sq/view?usp=sharing" target="_blank">Installation Guide</a>
+        <a title="Installation Guide PDF" href="https://drive.google.com/file/d/1FdwuewNqddwsjGiLcJKiGg3hBetk68Sq/view?usp=sharing" target="_blank">Installation Guide PDF</a>
       </strong>
     </p>
   </div>
@@ -34,7 +34,7 @@ We have developed the following resources to support the installation and operat
     </p>
     <p>
       <strong>
-        <a title="Admin Quick Start Guide PDF" href="https://drive.google.com/file/d/1nV-1_jEdi6u24OXv0I8dPQSSY_VfuL1v/view?usp=sharing" target="_blank">Admin Quick Start Guide</a>
+        <a title="Admin Quick Start Guide PDF" href="https://drive.google.com/file/d/1nV-1_jEdi6u24OXv0I8dPQSSY_VfuL1v/view?usp=sharing" target="_blank">Admin Quick Start Guide PDF</a>
       </strong>    
     </p>
   </div>
@@ -47,7 +47,7 @@ We have developed the following resources to support the installation and operat
     </p>
     <p>
       <strong>
-        <a title="User Manual PDF" href="https://drive.google.com/file/d/1qNqtNq1SmgRvvv4SvSSMP3uIZCGTWAD6/view?usp=sharing" target="_blank">User Manual</a>
+        <a title="User Manual PDF" href="https://drive.google.com/file/d/1qNqtNq1SmgRvvv4SvSSMP3uIZCGTWAD6/view?usp=sharing" target="_blank">User Manual PDF</a>
       </strong>    
     </p>
   </div>
