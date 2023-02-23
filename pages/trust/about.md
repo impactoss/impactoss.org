@@ -68,7 +68,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-  <div class="large-3 columns">      
+  <div class="large-4 columns">      
     <p>
         <img src="{{site.urlimg}}timo.png">
     </p>
