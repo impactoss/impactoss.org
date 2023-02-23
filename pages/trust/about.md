@@ -30,7 +30,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
 # Our Board of Trustees
 
 <div class="row">
-  <div class="large-3 columns">
+  <div class="large-4 columns">
     <p>
       <img src="{{site.urlimg}}moana.png">
     </p>
@@ -49,26 +49,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-  <div class="large-3 columns">    
-    <p>
-        <img src="{{site.urlimg}}ashley.png">
-    </p>
-    <h4>
-      Ashley Bowe
-    </h4>
-    <h6>
-      Secretary, Founding Trustee
-    </h6>
-    <p>
-      Ashley is a human rights defender with a demonstrated history of working in different continents, countries and cultural contexts. As a Human Rights Officer for <a href="https://www.ohchr.org/EN/pages/home.aspx" target="_blank" tile="UN Human Rights">UN Human Rights</a> in Samoa he co-designed Sadata that would later become IMPACT OSS.
-    </p>
-    <p>
-      <a target="_blank" href="https://www.linkedin.com/in/ashley-bowe-a4716019">
-        LinkedIn
-      </a>
-    </p>
-  </div>
-  <div class="large-3 columns">
+  <div class="large-4 columns">
     <p>
         <img src="{{site.urlimg}}edith.png">
     </p>
