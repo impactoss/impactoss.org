@@ -30,7 +30,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
 # Our Board of Trustees
 
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-3 columns">
     <p>
       <img src="{{site.urlimg}}moana.png">
     </p>
@@ -49,7 +49,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-  <div class="large-4 columns">
+  <div class="large-3 columns">
     <p>
         <img src="{{site.urlimg}}edith.png">
     </p>
@@ -68,7 +68,26 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       </a>
     </p>
   </div>
-  <div class="large-4 columns">      
+  <div class="large-3 columns">    
+    <p>
+        <img src="{{site.urlimg}}maria.png">
+    </p>
+    <h4>
+      Maria Fernanda Maxil Platas
+    </h4>
+    <h6>
+      Trustee
+    </h6>
+    <p>
+      Maria is a Senior Policy Analyst who currently works in the area of protection of democracy. She worked in the area of human rights for many years and is passionate about monitoring and implementation of international human rights obligations to enhance countries' human rights record.
+    </p>
+    <p>
+      <a target="_blank" href="https://www.linkedin.com/in/maria-fernanda-maxil-platas-8b916a46/">
+        LinkedIn
+      </a>
+    </p>
+  </div>
+  <div class="large-3 columns">      
     <p>
         <img src="{{site.urlimg}}timo.png">
     </p>
