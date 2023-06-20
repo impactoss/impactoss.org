@@ -57,7 +57,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Maria Fernanda Maxil Platas
     </h4>
     <h6>
-      Trustee
+      Secretary, Trustee
     </h6>
     <p>
       Maria is a Senior Policy Analyst who currently works in the area of protection of democracy. She worked in the area of human rights for many years and is passionate about monitoring and implementation of international human rights obligations to enhance countries' human rights record.
