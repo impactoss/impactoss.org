@@ -79,7 +79,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Treasurer, Founding Trustee
     </h6>
     <p>
-      Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer of <a href="http://unfolddata.com" target="_blank" tile="Unfold Data">Unfold Data</a> he has contributed significantly to the concept and development of IMPACT OSS.
+      Timo is a software developer and information designer and responsible for overseeing the development efforts of the Trust. As director and lead programmer at <a href="http://dumpark.com" target="_blank" tile="Dumpark Information Design">Dumpark</a> he has contributed significantly to the concept and development of IMPACT OSS.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/tmfrnz">
@@ -98,7 +98,7 @@ Our objectives are to advance the enjoyment of human rights and the realisation 
       Founding Trustee
     </h6>
     <p>
-      As an interaction and information designer, Edith looks after all the design outputs of the Trust. She is a director and the lead designer of <a href="http://unfolddata.com" target="_blank" tile="Unfold Data">Unfold Data</a> (formerly dumpark) and designed the User Interface of IMPACT OSS as well as the custom themes for its Samoan and New Zealand installations.
+      As an interaction and information designer, Edith looks after all the design outputs of the Trust. She is a director and the lead designer of <a href="http://dumpark.com" target="_blank" tile="Dumpark Information Design">Dumpark</a> and designed the User Interface of IMPACT OSS as well as the custom themes for its Samoan and New Zealand installations.
     </p>
     <p>
       <a target="_blank" href="https://www.linkedin.com/in/edith-woischin-3127b865">
